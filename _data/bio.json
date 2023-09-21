@@ -116,7 +116,7 @@
     {
       "company": "First Order Logistics dba The UPS Store 6838, Gig Harbor, WA",
       "position": "Managing Partner",
-      "website": "theupsstore.com/6838",
+      "website": "http://www.theupsstore.com/6838",
       "startDate": "2016-07-01",
       "endDate": "2022-07-31",
       "summary": "Launched a retail store in January 2017 in a high-growth potential market with a unique store design. Responsibilities included retail store management including staffing, inventory, operations, and cash management. Performed duties as a Washington State Notary, and provided business consulting and graphic design services for customers.",
@@ -132,7 +132,7 @@
     {
       "company": "Nord Anglia Education, Windermere, FL",
       "position": "Director of Technology",
-      "website": "windermereprep.com",
+      "website": "http://www.windermereprep.com",
       "startDate": "2012-07-01",
       "endDate": "2016-06-30",
       "summary": "Lead a multi-location technical team providing Classroom Technology Integration, IT support, software development, database administration, and classroom technology design for US and international schools. Developed and deployed technology plans and cybersecurity across the area, managed numerous annual projects across multiple sites, and developed technology risk assessments and technology planning in all markets.",
@@ -154,7 +154,7 @@
     {
       "company": "Windermere Preparatory School, Windermere, FL",
       "position": "Director of Technology",
-      "website": "windermereprep.com",
+      "website": "http://www.windermereprep.com",
       "startDate": "2009-07-01",
       "endDate": "2012-06-30",
       "summary": "Supported campus technology (Customer Support / IT Support), database administration, data analysis, employee education, parent classes, in-classroom co-teaching, planning and expansion of campus technology, budgets, personnel reviews, and a five-year Technology Plan for private, PreK-12 school in central Florida with computing devices at all grade levels. Developed and fostered the execution of a long-term growth strategy for technology in the classroom. Reformed cybersecurity to improve operational efficiency and guarantee 24/7/365 availability of critical services. Developed technology risk management program.",
@@ -180,7 +180,7 @@
     {
       "company": "Windermere Preparatory School, Windermere, FL",
       "position": "Teacher / Technology Integrationist / IT Support Specialist",
-      "website": "windermereprep.com",
+      "website": "http://www.windermereprep.com",
       "startDate": "2007-07-01",
       "endDate": "2009-06-30",
       "summary": "Full-time math and technology teacher, IT Specialist, and Educational Technology Integrationist providing server and computer technical support while teaching a full schedule of math and technology classes to middle and high school students. Provided professional training to teachers on technology use in the classroom and worked to modernize the school’s technology goals within educational planning.",
@@ -209,7 +209,7 @@
     {
       "company": "Dauterive Oil, New Orleans, LA",
       "position": "Vice President / Owner",
-      "website": "dauteriveoil.com",
+      "website": "http://www.dauteriveoil.com",
       "startDate": "2001-06-01",
       "endDate": "2007-04-30",
       "summary": "Managed a high level of change during reorganization and growth of operations, locations, and sales, with growth from sales of $4M in a single bulk plant to $24M bulk oil and gasoline distributorship and convenience store operation with two bulk plant locations and six convenience stores.",
@@ -225,7 +225,7 @@
     {
       "company": "Nortel Networks, Richardson, TX",
       "position": "Regional Sales Director",
-      "website": "nortel-us.com",
+      "website": "http://www.nortel-us.com",
       "startDate": "1999-01-01",
       "endDate": "2001-05-31",
       "summary": "Recruited to Sales to lead the turnaround of a diminishing client account in flat sales territory. Responsibilities included redeveloping sales plans through customer needs analysis, leading to a 349% sales increase.",
@@ -238,7 +238,7 @@
     {
       "company": "Nortel Networks, Richardson, TX",
       "position": "Senior Manager, Brand Management & Sales Engineering",
-      "website": "nortel-us.com",
+      "website": "http://www.nortel-us.com",
       "startDate": "1997-01-01",
       "endDate": "1998-12-31",
       "summary": "Took co-developed DMS-100 / DMS-250 hybrid telephone switch and created marketing plan, business plan, and sales plans. Then followed those plans to customer locations via RFPs, product training presentations, and product presentations to support the sales team.",
@@ -251,7 +251,7 @@
     {
       "company": "Bell Northern Research, Richardson, TX",
       "position": "Software Designer, Software Support Engineer, and Design Team Manager",
-      "website": "bnr.ca",
+      "website": "http://www.bnr.ca",
       "startDate": "1990-06-01",
       "endDate": "1996-12-31",
       "summary": "Software Designer and later Software Design Manager for custom feature development organization in the DMS-250 and DMS-500 digital telephone switches in the public and government markets. Software Support Engineer for the DMS-250 long-distance markets. These roles utilized Waterfall and later an early form of Agile methodology, combining a phased approach to project management with planned process checkpoints to emphasize collaboration and continuous improvement.",
