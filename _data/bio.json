@@ -1,36 +1,84 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Valliere (Val) J. Dauterive III",
+    "label": "Cybersecurity, IT, Business, Leadership",
+    "picture": "https://github.com/vjd3.png",
+    "email": "val.dauterive@gmail.com",
+    "phone": "253-432-2412",
+    "website": "https://vjd3.github.io",
+    "summary": "Highly accomplished and integrity-driven technology and business leader with experience in spearheading cybersecurity, technology strategy, software development, infrastructure, and operations. Proven expertise in driving transformation, implementing innovative solutions, and optimizing processes to deliver exceptional business value within a secure environment. Adept at leading cross-functional teams, managing vendor relationships, and ensuring robust security and compliance measures. Strong communicator with a talent for fostering a culture of continuous improvement and driving technology excellence.",
+    "location": { "address": "", "postalCode": "98312", "city": "Bremerton", "countryCode": "USA", "region": "Washington" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "vjd3", "url": "http://github.com/vjd3" },
+      { "network": "linkedin", "username": "valdauterive", "url": "http://linkedin.com/in/valdauterive" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cybersecurity" },
+    { "name": "Ethical Hacking" },
+    { "name": "Bug Bounty Hunting" },
+    { "name": "Hack the Box" },
+    { "name": "Youtube" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Basic Computer Skills",
+      "keywords": [ "MS Office", "Google Drive", "OpenOffice", "Apple Pages/Keynote" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "PC Operating systems",
+      "keywords": [ "MacOS", "Microsoft Windows NT/XP/Vista/7/8/10/11", "Linux/Unix" ]
+    },
+    {
+      "name": "Server Operating Systems",
+      "keywords": [ "MacOS", "MS Windows Server NT/2003/2008/2012/2016", "Unix" ]
+    },
+    {
+      "name": "Internet Software Tools",
+      "keywords": [ "GitHub", "Sourceforge", "Spiceworks" ]
+    },
+    {
+      "name": "Team Collaboration",
+      "keywords": [ "Dropbox", "Slack", "Zoom", "Skype" ]
+    },
+    {
+      "name": "Programming Editors",
+      "keywords": [ "vi", "vim", "CodeEdit", "Xcode", "Visual Studio Code", "Sublime" ]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": [ "Java", "JavaScript", "Python", "Perl", "PHP", "XML", "C", "C++", "HTML", "Pascal", "Cobol", "Fortran", "Basic", "ProTel", "Powershell" ]
+    },
+        {
+      "name": "Data science and analysis",
+      "keywords": [ "MySQL", "SQLite", "MatLab", "dBASE" ]
+    },
+    {
+      "name": "Database Management",
+      "keywords": [ "MS Access", "Oracle", "MySQL", "SQL", "DATAMAN" ]
+    },
+    {
+      "name": "Graphics and Design",
+      "keywords": [ "Photoshop", "Illustrator", "InDesign", "Lightroom", "Acrobat", "Affinity", "AutoCAD", "Microsoft Publisher" ]
+    },
+    {
+      "name": "IT Maintenance",
+      "keywords": [ "Server hardware configuration", "Server and PC system administration", "Tech Support", "Software installation", "Linux/Unix", "BASH", "CSH" ]
+    },
+    {
+      "name": "IT Networking",
+      "keywords": [ "Configuration/automation", "security (CIA Triad)", "cloud management", "WAN/LAN", "DNS", "DHCP", "debugging" ]
+    },
+    {
+      "name": "Wireless Network Design",
+      "keywords": [ "Solarwinds signal mapping", "Netspot signal mapping", "802.11a/b/g/n", "spectrum analysis" ]
+    },
+    {
+      "name": "Cybersecurity",
+      "keywords": [ "Risk identification and management", "Data management and analysis", "Cloud implementation and management", "Attack surface management", "Application security and protection" ]
     }
+
+
   ],
   "education": [
     {
