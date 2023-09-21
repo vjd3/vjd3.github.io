@@ -77,85 +77,223 @@
       "name": "Cybersecurity",
       "keywords": [ "Risk identification and management", "Data management and analysis", "Cloud implementation and management", "Attack surface management", "Application security and protection" ]
     }
-
-
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Tulane University, New Orleans, LA",
+      "area": "Masters, Business Administration, Executive Level",
+      "studyType": "MBA",
+      "startDate": "2002-11-01",
+      "endDate": "2004-07-31",
       "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "institution": "Tulane University, New Orleans, LA",
+      "area": "Electrical Engineering",
+      "studyType": "B.S.",
+      "startDate": "1986-09-01",
+      "endDate": "1990-05-30",
+      "courses": [
+      ]
+    }
+
+  ],
+  "work": [
+    {
+      "company": "Imperial Development Corporation",
+      "position": "President / CEO",
+      "website": "",
+      "startDate": "2016-07-01",
+      "endDate": "Present",
+      "summary": "Responsibilities include Financial Analysis, Business Investment, Market Identification, Business Development, and Executive Management",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Acquired funding to purchase Franchise rights to open a The UPS Store location.",
+        "Identified a superior market for a new location to bring together customers with means and services with value.",
+        "Acted as corporate security analyst, securing data and penetration testing networks in all eight CISSP's security domains."
+      ]
+    },
+    {
+      "company": "First Order Logistics dba The UPS Store 6838, Gig Harbor, WA",
+      "position": "Managing Partner",
+      "website": "theupsstore.com/6838",
+      "startDate": "2016-07-01",
+      "endDate": "2022-07-31",
+      "summary": "Launched a retail store in January 2017 in a high-growth potential market with a unique store design. Responsibilities included retail store management including staffing, inventory, operations, and cash management. Performed duties as a Washington State Notary, and provided business consulting and graphic design services for customers.",
+      "highlights": [
+        "Multi-year award-level store sales with sale of assets in June 2022 leading to an ROI of 300%.",
+        "Windows Server 2016 deployment, with Active Directory for store network.",
+        "Fortinet firewall hardware security deployment to physically separate secure and public domains.",
+        "Deployed print servers and NAS configurations for customer printing, document version control, and storage.",
+        "Intermediate graphic designer using Adobe InDesign, Photoshop, and Illustrator software.",
+        "Google Ads designer and user for location advertising."
+      ]
+    },
+    {
+      "company": "Nord Anglia Education, Windermere, FL",
+      "position": "Director of Technology",
+      "website": "windermereprep.com",
+      "startDate": "2012-07-01",
+      "endDate": "2016-06-30",
+      "summary": "Lead a multi-location technical team providing Classroom Technology Integration, IT support, software development, database administration, and classroom technology design for US and international schools. Developed and deployed technology plans and cybersecurity across the area, managed numerous annual projects across multiple sites, and developed technology risk assessments and technology planning in all markets.",
+      "highlights": [
+        "Deployed a new Student Information System to support all area schools, including billing, information security of PII and SPII, secure communication, e-classroom, and grading environments.",
+        "100% technology immersion across all education areas with the rollout of the 1:1 computer/child initiative.",
+        "Standardized operations from the initial school into guides that could be deployed at all other schools.",
+        "Utilized NIST-CSF and NIST-RMF to create cybersecurity plan documents for all schools in English and Spanish",
+        "Directly responsible for 2 local schools, and remotely responsible for 1 international and 3 other US schools",
+        "Used video calling and Skype to manage staff remotely and Spiceworks/ARD/Jamf to manage trouble tickets, software versioning, and remote access and control of all computing devices.",
+        "Ruckus wireless mesh, Cisco wired networking, and Fortinet edge security standardized for training and deployment",
+        "Expert in configuring and administering windows server 2003/2008/2012, IIS 6.0/7.0, WSUS 2.0 SP1/3.0 SP2.",
+        "Maintained more than 50 servers, both physical and VM environments with .99 uptime.",
+        "Mastery in troubleshooting Windows and Mac OS issues, responsible for all issues at all severity levels.",
+        "Firm understanding of Windows security including file system permissions, file sharing, event logging, performance monitoring and disk administration, designing an Active Directory and Network Infrastructure, Forest and Domain Infrastructure and implementing Group Policy, Managing and Monitoring Dynamic Host Configuration Protocol DHCP managing and monitoring Domain Name System DNS",
+        "POWERSHELL 2.0/3.0 scripting skills."
+      ]
+    },
+    {
+      "company": "Windermere Preparatory School, Windermere, FL",
+      "position": "Director of Technology",
+      "website": "windermereprep.com",
+      "startDate": "2009-07-01",
+      "endDate": "2012-06-30",
+      "summary": "Supported campus technology (Customer Support / IT Support), database administration, data analysis, employee education, parent classes, in-classroom co-teaching, planning and expansion of campus technology, budgets, personnel reviews, and a five-year Technology Plan for private, PreK-12 school in central Florida with computing devices at all grade levels. Developed and fostered the execution of a long-term growth strategy for technology in the classroom. Reformed cybersecurity to improve operational efficiency and guarantee 24/7/365 availability of critical services. Developed technology risk management program.",
+      "highlights": [
+        "Lobbied and secured an 875% increase in capital expense funding granted following department initiative of increases in customer service, quality of environment, and flexibility of design.",
+        "71% increase in grade levels utilizing technology through phased, one-on-one training of teachers.",
+        "Responsible for all duties as IT Support Specialist from prior role via growing staff.",
+        "Standardized Internet Safety and Security rules for Students, Staff, and Administration.",
+        "Converted Windows 2003 R2 server farm to Windows Server 2008 R2 Virtual Server farm in VMware ESXi.",
+        "Replaced aging Dell hardware with HP Proliant blade servers for virtual servers.",
+        "Replaced home routers and switches with business-grade networking equipment, connected by 1 GB fiber.",
+        "Designed mesh wireless network covering all 48 acres using Meru hardware and full campus signal mapping.",
+        "Opened the campus to bring-your-own-device standards with 4 devices per user configuration depth.",
+        "All staff moved to laptops with remote device management, eliminating the need to physically touch devices.",
+        "Maintained Microsoft DHCP, DNS, WINS, Active Directory, Domain trust relationship, fault tolerance, file and print services, user and group management across Mac and Windows devices.",
+        "Manage projects through all stages of the life cycle: Research, estimating, cost analysis, vendor comparison, testing, implementation, remediation, and closure.",
+        "Conducted in-depth analysis of all systems, creating new system-level requirements, architectural and functional specifications to streamline all system operations.",
+        "Managed and oversaw all technical aspects of retail store build-out including the creation of schedules, documents, and guides for contractors, vendors, and consultants.",
+        "Prepared and maintained configuration documents for routers, switches, and access points.",
+        "Supported business IT needs which included POS issues, IP networking issues, and disaster recovery"
+      ]
+    },
+    {
+      "company": "Windermere Preparatory School, Windermere, FL",
+      "position": "Teacher / Technology Integrationist / IT Support Specialist",
+      "website": "windermereprep.com",
+      "startDate": "2007-07-01",
+      "endDate": "2009-06-30",
+      "summary": "Full-time math and technology teacher, IT Specialist, and Educational Technology Integrationist providing server and computer technical support while teaching a full schedule of math and technology classes to middle and high school students. Provided professional training to teachers on technology use in the classroom and worked to modernize the school’s technology goals within educational planning.",
+      "highlights": [
+        "67% increase in daily technology use in middle school classrooms through direct, personal tailoring of technology applications to staff.",
+        "79% decrease in annual technology startup time realized by re-targeting school goals that provided faster student access to technology.",
+        "Created company IT software and security standards.",
+        "Administered 5 Windows servers in the data center.",
+        "Responsible for installation/updates of Windows servers and Active Directory configuration.",
+        "Installation, Update, and Management of virus protection tools Symantec Anti-Virus on all the Servers.",
+        "Performing Technical Assurance for servers to check for quality of servers before bringing them Into the live environment and Responsible for the Security Health Check on all the servers.",
+        "Responsible for running TCP/IP scans to check for Vulnerabilities on all supported servers.",
+        "Diagnose hardware and related software problems and replace defective components.",
+        "Installation and configuring of Print Servers for Network printing.",
+        ﻿﻿"Distribution of software packages using Microsoft Systems Management Server SMS.",
+        "Installed and configured Exchange 2003 mail server and WSUS server.",
+        "100% Conversion from manual setup of 240 student issued laptops to annual deployment imaging.",
+        "Maintained pre-existing 18 node Linksys home wireless router setup using channel layering and physical boundary placement to stabilize connection and movement.",
+        "Maintained aging Windows PC desktop teacher/Admin hardware and software load-outs.",
+        "Designed and sustained desktop security via Active Directory policies.",
+        "Designed software deployment via scripts, images, and WSUS server.",
+        "Created policies for Antivirus software deployment, routine scanning, and physical spot checking.",
+        "Provided on-call technical support for entire staff and after-school technical support for student laptops"
+      ]
+    },
+    {
+      "company": "Dauterive Oil, New Orleans, LA",
+      "position": "Vice President / Owner",
+      "website": "dauteriveoil.com",
+      "startDate": "2001-06-01",
+      "endDate": "2007-04-30",
+      "summary": "Managed a high level of change during reorganization and growth of operations, locations, and sales, with growth from sales of $4M in a single bulk plant to $24M bulk oil and gasoline distributorship and convenience store operation with two bulk plant locations and six convenience stores.",
+      "highlights": [
+        "100% Conversion from paper systems to Windows Server 2003/Windows XP environment.",
+        "Created MySQL based records system for managing daily sales at convenience store locations.",
+        "Developed custom software for bulk oil distributorship as well as convenience store management.",
+        "40% gross profit increase by optimizing routes that provided structures to capture specific customers.",
+        "17% gross sales increase through the acquisition of a competitor on the territory edge.",
+        "167% production increase achieved through analysis and identification of methodologies to optimize resource utilization"
+      ]
+    },
+    {
+      "company": "Nortel Networks, Richardson, TX",
+      "position": "Regional Sales Director",
+      "website": "nortel-us.com",
+      "startDate": "1999-01-01",
+      "endDate": "2001-05-31",
+      "summary": "Recruited to Sales to lead the turnaround of a diminishing client account in flat sales territory. Responsibilities included redeveloping sales plans through customer needs analysis, leading to a 349% sales increase.",
+      "highlights": [
+        "Responsibilities included identifying the failures of the previous team and formulating an approach that would be in line with the goals of the customer.",
+        "Acted as technical advisor/consultant, using my personal knowledge of the product as a unique asset in their design and deployment phases.",
+        "Put together cross-product technical design teams as traveling consultants that could provide in-person highly technical discussions of the customer’s real configurations and requirements."
+      ]
+    },
+    {
+      "company": "Nortel Networks, Richardson, TX",
+      "position": "Senior Manager, Brand Management & Sales Engineering",
+      "website": "nortel-us.com",
+      "startDate": "1997-01-01",
+      "endDate": "1998-12-31",
+      "summary": "Took co-developed DMS-100 / DMS-250 hybrid telephone switch and created marketing plan, business plan, and sales plans. Then followed those plans to customer locations via RFPs, product training presentations, and product presentations to support the sales team.",
+      "highlights": [
+        "New DMS-500 Brand: brand formulation, logo design, and marketing plan, including market scope, advertisement, and sales approach.",
+        "Responded to all RFPs for the new brand including physical plant design requirements, power distribution systems, emergency power contingencies, distribution systems, deployment, installation, and initial turn-up.",
+        "Managed product training from initial sales, project planning, and deployment."
+      ]
+    },
+    {
+      "company": "Bell Northern Research, Richardson, TX",
+      "position": "Software Designer, Software Support Engineer, and Design Team Manager",
+      "website": "bnr.ca",
+      "startDate": "1990-06-01",
+      "endDate": "1996-12-31",
+      "summary": "Software Designer and later Software Design Manager for custom feature development organization in the DMS-250 and DMS-500 digital telephone switches in the public and government markets. Software Support Engineer for the DMS-250 long-distance markets. These roles utilized Waterfall and later an early form of Agile methodology, combining a phased approach to project management with planned process checkpoints to emphasize collaboration and continuous improvement.",
+      "highlights": [
+        "Protel/C programming in a Unix environment on HP Xterminals with more than 20,000 lines of code written.",
+        "Full feature development including specification, documentation, testing, and releases in PEP phases (similar to Sprints in Agile).",
+        "Lab Testing using manual and automated test suites on the Digital Test Head platform (Similar to Jenkins for website testing with customizable, community-driven test modules to allow customized test environments for all product groups and developments).",
+        "Co-developed a hybrid local/long-distance software combination via unique code restructuring and new core process management.",
+        "Proven ability to attract/retain top talent, mentor employees, and advise management on policy-related matters.",
+        "Creation of the Product Enhancement Patch Process. Up to 1995, the method for all software development was the waterfall method where a series of software features were developed and bundled into one large release. My PEP methodology was to take a large feature or group of feature components and break them into smaller, quickly releasable PEP Units, similar to Sprints in the Agile methodology that came 5 years later.",
+        "Creation of the DMS-500 Local/Long Distance Hybrid: The PEP process introduced a large complexity to the test phase of product releases. It needed a greater level of flexibility in testing than the current Digital Test Head could do through a linear test model approach. I co-led a team to merge the DMS-100 Local telephone operating system with the DMS-250 Long-distance telephone operating system, to merge two products into one. This allowed for 3-dimensional testing of end-to-end call viability using the DTH as the call controller and the new DMS-500 to make local-long distance-local call mixtures. When the device proved functional at over 1 million call attempts per hour, we were able to make it an official product for the company and open the door to small full-service telephone companies."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Zebra Youth",
+      "website": "https://zebrayouth.org/",
+      "position": "",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Gig Harbor Peninsula FISH Food Bank and Community Services",
+      "website": "https://www.ghpfish.org/",
+      "position": "IT / Admin Volunteer",
+      "startDate": "2017-11-01",
+      "endDate": "2019-06-30",
+      "summary": "Community Volunteer, IT Support",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+        ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manager of the Year",
+      "date": "1995",
+      "awarder": "Nortel Networks",
+      "summary": ""
     }
   ],
   "references": [
