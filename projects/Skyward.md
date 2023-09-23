@@ -17,7 +17,7 @@ labels:
 summary: "Conversion to a web based Student Information System provided by Skyward."
 ---
 
-![Skyward SIS](../img/skyward/Skywardsm1.jpg)
+![Skyward SIS](../img/skyward/Skywardsm2.jpg)
 
 Skyward is a web application front end to a massive database that houses all family, student, class, course, grade, scheduling, and billing information.
 
