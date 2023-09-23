@@ -1,0 +1,131 @@
+---
+title: Disclaimer
+layout: home
+---
+
+<div style="background-color: var(--tf-page-bg-color)" class="bg-gradient py-3">
+  <div class="container">
+
+    <div class="row">
+      <div class="col">
+        <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        {% capture url %}{{ site.data.bio.basics.website }}{% endcapture %}
+        {% capture label %}{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}{% endcapture %}
+        <p class="mb-1">{% include about/social.html url=url name='house' label=label %} </p>
+
+        {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
+        {% capture label %}{{ site.data.bio.basics.email }}{% endcapture %}
+        <p class="mb-1">{% include about/social.html url=url name='envelope' label=label %}</p>
+
+        {% for profile in site.data.bio.basics.profiles %}
+          {% capture url %}{{ profile.url }}{% endcapture %}
+          {% capture name %}{{ profile.network | downcase }}{% endcapture %}
+          {% capture label %}{{ profile.username }}{% endcapture %}
+          <p class="mb-1">{% include about/social.html url=url name=name label=label %}</p>
+        {% endfor %}
+      </div>
+      <div class="col">
+      </div>
+    </div>
+
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">License</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">
+          <div>All works licensed under 
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</a>
+          </div>
+          <div>
+            <i class="fab fa-creative-commons fa-2x"></i>
+            <i class="fab fa-creative-commons-by fa-2x"></i>
+            <i class="fab fa-creative-commons-sa fa-2x"></i>
+          </div>
+        </p>
+      </div>
+    </div>
+
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Disclaimer</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">
+        <p>This disclaimer (“Disclaimer”) sets forth the general guidelines, disclosures, and terms of your use of the <a href="https://vjd3.github.io">vjd3.github.io</a> website (“Website”) and any of its related products and services (collectively, “Services”). This Disclaimer is a legally binding agreement between the reader (“User”, “you” or “your”) and this Website owner (“Operator”, “we”, “us” or “our”). By accessing and using the Website and/or Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Disclaimer. If you do not agree with the terms of this Disclaimer, you must not accept this Disclaimer and may not access and use the Website and Services. You acknowledge that this Disclaimer is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Website and Services.
+      </div>
+    </div>
+              
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Representation</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">
+        <p>Any views or opinions represented on the Website are personal and belong solely to the Operator and do not represent those of people, institutions or organizations that the Operator may or may not be associated with in professional or personal capacity unless explicitly stated. Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, or individual.
+      </div>
+    </div>
+                  
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Content and Postings</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">
+        <p>You may not modify, print or copy any part of the Website and Services without prior consent from the Website owner. Inclusion of any part of the Website in another work, whether in printed, electronic or another form or inclusion of any part of the Website on another resource by embedding, framing or otherwise without the express permission of the Operator is prohibited.
+            <p>The Shellsharks logo and all other original artwork found on this site is property of the Website Owner. I ask that you please <a href="/contact">contact me</a> before using or distributing it elsewhere.
+      </div>
+    </div>
+                  
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Indemnification and Warranties</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">
+            <p>The Operator is not responsible for any errors or omissions, or for the results obtained from the use of the information on this Website. All information on the Website is provided “as is”, with no guarantee of completeness, accuracy or timeliness. In no event will the Operator be liable to you or anyone else for any decision made or action taken in reliance on the information on the Website, or for any consequential, special or similar damages, even if advised of the possibility of such damages. Information on the Website is for general information purposes only and is not intended to provide any type of professional advice. Please seek professional assistance should you require it. Information contained on the Website is subject to change at any time and without warning.
+      </div>
+    </div>
+                
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Changes and Amendments</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">
+             <p>The Website owner reserves the right to modify this Disclaimer or its terms relating to the Website and Services at any time, effective upon posting of an updated version of this Disclaimer on the Website. When this disclaimer is updated, the Operator will revise the updated date at the bottom of this page. Continued use of the Website and Services after any such changes shall constitute your consent to such changes.
+      </div>
+    </div>
+                    
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Acceptance of this Disclaimer</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">
+            <p>You acknowledge that you have read this Disclaimer and agree to all its terms and conditions. By accessing and using the Website you agree to be bound by this Disclaimer. If you do not agree to abide by the terms of this Disclaimer, you are not authorized to access or use the Website.
+      </div>
+    </div>
+                    
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Contact</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">
+            <p>If you would like to contact the site owner to understand more about the Disclaimer or wish to reach out concerning any matter relating to it, <a href={{ site.data.bio.basics.email }}>you may contact him here</a>.
+            <p>
+              <strong>Last Updated: November 16, 2022</strong>
+            </p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
