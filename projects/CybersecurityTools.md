@@ -21,10 +21,15 @@ summary: "A List of Cybersecurity Tools."
 
 ![Cybersecurity](../img/cyber/cybertree.jpg)
 
-Skyward is a web application front end to a massive database that houses all family, student, class, course, grade, scheduling, and billing information.
+https://github.com/up209d/ResourcesSaverExt
 
-This project involved project planning for 10 schools, owned by Meritas, with 10 different methods of managing all systems. The conversion began with vendor selection via a dozen RFPs managed by the Chicago office. Meetings with the core group included required feature lists from every school, including all teaching, parent, and administrative areas. Once Skyward was selected, conversions were planned by bringing in prime representatives from each school into multiple training and conversion training sessions that I ran in Chicago.
-
-In this project, I acted as the primary project planner, trainer of each school's conversion plan, host of numerous training sessions for conversion and later initial usage, and finally host of the first annual Skyward conference.
-
-As host of the Skyward conference, I put together classes, seminars, and guest speakers for a 3-day intensive networking and training event.
+Aircrack-ng: A suite of tools for wireless network auditing and penetration testing.
+Burp Suite: A web application security testing tool that can be used to test for vulnerabilities in web applications.
+Defendify: A comprehensive cybersecurity platform that includes vulnerability scanning, threat detection, and incident response.
+Kali Linux: A Linux-based operating system that includes a wide range of cybersecurity tools.
+Wireshark: A network protocol analyzer that can be used to capture and analyze network traffic.
+KeePass: A password manager that can be used to securely store and manage passwords.
+Metasploit Framework: A penetration testing framework that can be used to test the security of computer systems and networks.
+Nikto: A web server scanner that can be used to identify vulnerabilities in web servers.
+Nmap: A network exploration and security auditing tool that can be used to discover hosts and services on a computer network.
+Security Onion: A Linux distribution for intrusion detection, network security monitoring, and log management.
