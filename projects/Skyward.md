@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/skyward/skyward.webp
+image: img/skyward/skyward.jpg
 title: "Skyward SIS"
 date: 2012
 published: true
@@ -17,7 +17,7 @@ labels:
 summary: "Conversion to a web based Student Information System provided by Skyward."
 ---
 
-<img class="img-fluid" src="../img/skyward/skyward.webp">
+<img class="img-fluid" src="../img/skyward/skyward.jpg">
 
 Skyward is a web application front end to a massive database that houses all family, student, class, course, grade, scheduling, and billing information.
 
