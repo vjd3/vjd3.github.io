@@ -1,25 +1,25 @@
 ---
 layout: project
 type: project
-image: ../img/cyber/infosec1.jpeg
+image: ../img/cyber/cybersec.jpeg
 title: "Infosec Tools"
 date: 2023
 published: true
 labels:
-  - Policy and governance
-  - Physical security
-  - Network mapping
-  - Inventory of assets
-  - Authentication
-  - Provide a layered defense
-  - Secure configurations
+  - Application
+  - Information
+  - Network
+  - Operational
+  - Encryption
   - Access control
-summary: "Conversion to a web based Student Information System provided by Skyward."
+  - End-User Education
+  - Disaster Recovery
+summary: "A List of Cybersecurity Tools."
 ---
 
-<img class="img-fluid" src="../img/cyber/cybertree.jpeg">
+<!--<img class="img-fluid" src="../img/cyber/cybertree.jpeg">-->
 
-![Cybersecurity](../img/cyber/cybertree.jpeg)
+![Cybersecurity](../img/cyber/cybertree.jpg)
 
 Skyward is a web application front end to a massive database that houses all family, student, class, course, grade, scheduling, and billing information.
 
