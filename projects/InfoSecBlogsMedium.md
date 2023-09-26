@@ -6,14 +6,7 @@ title: "Infosec Medium Blogs"
 date: 2023
 published: true
 labels:
-  - Application
-  - Information
-  - Network
-  - Operational
-  - Encryption
-  - Access control
-  - End-User Education
-  - Disaster Recovery
+  - Blog
 summary: "A (neverending) List of Infosec Blogs - Infosec Medium Blogs"
 ---
 
