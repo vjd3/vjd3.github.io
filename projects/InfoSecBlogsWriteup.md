@@ -3,8 +3,8 @@ layout: project
 type: project
 image: ../img/blog/Blog_computer.jpeg
 title: "Infosec Writeup and Agro Blogs"
-date: 2023-09-04
-published: true
+date: 2023-09-01
+draft: true
 labels:
 - Blog
 summary: "A (neverending) List of Infosec Blogs - Infosec Writeup and Agro Blogs"

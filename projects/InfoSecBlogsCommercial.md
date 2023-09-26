@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/blog/Blog_computer.jpeg
 title: "Infosec Commercial Blogs"
-date: 2023-09-05
+date: 2023-09-01
 published: true
 labels:
   - Blog

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/blog/Blog_computer.jpeg
 title: "Infosec Medium Blogs"
-date: 2023-09-03
+date: 2023-09-01
 published: true
 labels:
   - Blog

@@ -3,8 +3,8 @@ layout: project
 type: project
 image: ../img/blog/Blog_computer.jpeg
 title: "Infosec Blogs"
-date: 2023-09-02
-published: true
+date: 2023-09-01
+draft: true
 labels:
   - Blog
 summary: "A (neverending) List of Infosec Blogs - The General List"
@@ -2168,4 +2168,5 @@ summary: "A (neverending) List of Infosec Blogs - The General List"
  - [#!/zitstif.no-ip.org/](http://zitstif.no-ip.org)
  - [Zon8 Research](https://zon8.re/posts/)
  - [zznop labs](https://zznop.com/blog/)
-  </ul>
+
+ 
