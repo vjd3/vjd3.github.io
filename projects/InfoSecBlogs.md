@@ -20,8 +20,6 @@ summary: "A (neverending) List of Infosec Blogs."
 <img class="img-fluid" src="../img/blog/blog_bubble.png">
 
 <h1 id="title">Infosec Blogs: toooooooo many</h1>
-
-<h1 id="boutique-security-blogs">Boutique Security Blogs</h1>
   <ul>
     <li><a href="https://s1gh.sh">./s1gh.sh</a>
     <li><a href="https://www.shellntel.com">#_shellintel</a>
@@ -945,10 +943,7 @@ summary: "A (neverending) List of Infosec Blogs."
     <li><a href="https://www.infosecmatter.com">InfosecMatter</a>
     <li><a href="https://blog.infosectcbr.com.au">InfoSect</a>
     <li><a href="https://infosecvidya.com">InfosecVidya</a>
-    <li><a href="http://archive.ingredous.com">ingredous</a> and <a href="https://labs.ingredous.com">
-    <i class="fas fa-flask">
-    </i>
-    </a>
+    <li><a href="http://archive.ingredous.com">ingredous</a> and <a href="https://labs.ingredous.com"></a>
     <li><a href="https://initinfosec.com">init infosec</a>
     <li><a href="https://initblog.com">initblog.com</a>
     <li><a href="https://abrignoni.blogspot.com">Initialization vectors</a>
@@ -2180,9 +2175,9 @@ summary: "A (neverending) List of Infosec Blogs."
     <li><a href="http://zitstif.no-ip.org">#!/zitstif.no-ip.org/</a>
     <li><a href="https://zon8.re/posts/">Zon8 Research</a>
     <li><a href="https://zznop.com/blog/">zznop labs</a>
-    </ul>
-    <h1 id="commercial-blogs">Commercial Blogs</h1>
-    <ul>
+  </ul>
+<h1 id="commercial-blogs">Commercial Blogs</h1>
+  <ul>
     <li><a href="https://www.0ffset.net/blog/">0ffset</a>
     <li><a href="https://oxide.computer/blog">0xide</a>
     <li><a href="https://blog.360totalsecurity.com/en/">360 Total Security</a>
@@ -2325,7 +2320,7 @@ summary: "A (neverending) List of Infosec Blogs."
     <li><a href="https://umbrella.cisco.com/blog">Cisco Umbrella</a>
     <li><a href="https://citizenlab.ca">The Citizen Lab</a>
     <li><a href="https://www.claranetcybersecurity.com/mediacenter">claranet</a>
-    <li><a href="https://claroty.com/blog/">Claroty</a> + <a href="https://claroty.com/team82">T82</a>
+    <li><a href="https://claroty.com/blog/">Claroty</a> and <a href="https://claroty.com/team82">T82</a>
     <li><a href="https://www.cleafy.com/labs">Cleafy</a>
     <li><a href="https://clearops.substack.com">ClearOPS</a>
     <li><a href="https://www.clearskysec.com/blog/">ClearSky Cyber Security</a>
@@ -3074,9 +3069,9 @@ summary: "A (neverending) List of Infosec Blogs."
     <li><a href="https://zolder.io/category/blogs/">Zolder</a>
     <li><a href="https://www.zscaler.com/blogs">zscaler</a>
     <li><a href="https://zxsecurity.co.nz/research/">ZX Security</a>
-    </ul>
-    <h1 id="writeup-blogs">Writeup Blogs</h1>
-    <ul>
+  </ul>
+<h1 id="writeup-blogs">Writeup Blogs</h1>
+  <ul>
     <li><a href="https://secreltyhiddenwriteups.blogspot.com">Bug Bounty Writeups</a>
     <li><a href="https://bughunters.google.com/report/reports">Bug Hunters Reports | Google</a>
     <li><a href="https://chr0x6eos.github.io">Chr0x6eOs</a>
@@ -3091,9 +3086,9 @@ summary: "A (neverending) List of Infosec Blogs."
     <li><a href="https://blog.securitybreached.org">Security Breached Blog</a>
     <li><a href="https://theinfosecblog.com/blogs/">theinfosecblog.com</a>
     <li><a href="https://writeup-db.com">Writeup-DB</a>
-    </ul>
-    <h1 id="aggro-sites">Aggro Sites</h1>
-    <ul>
+  </ul>
+<h1 id="aggro-sites">Aggro Sites</h1>
+  <ul>
     <li><a href="https://0dayfans.com">0dayfans</a>
     <li><a href="https://4sysops.com/archives/">4sysops</a>
     <li><a href="https://www.admin-magazine.com/tags/view/Security">ADMIN Network and Security</a>
@@ -3195,9 +3190,9 @@ summary: "A (neverending) List of Infosec Blogs."
     <li><a href="https://webs3c.com">webs3c</a>
     <li><a href="https://wololo.net/category/security/">wololo.net</a>
     <li><a href="https://www.zapstiko.com">zapstiko</a>
-    </ul>
-    <h1 id="medium">Medium</h1>
-    <ul>
+  </ul>
+<h1 id="medium">Medium</h1>
+  <ul>
     <li><a href="https://valsamaras.medium.com">+Ch0pin</a>
     <li><a href="https://jenf3rr.medium.com">/Jenn</a>
     <li><a href="https://medium.com/@mr_hacker">?Mr.Hacker</a>
@@ -3290,10 +3285,7 @@ summary: "A (neverending) List of Infosec Blogs."
     <li><a href="https://amit-lt.medium.com">Amit Kumar Biswas</a>
     <li><a href="https://medium.com/@amnotacat">amnotacat</a>
     <li><a href="https://medium.com/@amyrahm786">Amyrahm</a>
-    <li><a href="https://medium.com/@0x4ndr3">André Lima</a> <a href="https://andrelima.info">
-    <i class="fas fa-file-user">
-    </i>
-    </a>
+    <li><a href="https://medium.com/@0x4ndr3">André Lima</a> and <a href="https://andrelima.info"></a>
     <li><a href="https://alonnsoandres.medium.com">Andres Alonso</a>
     <li><a href="https://andrewplato.medium.com">Andrew Plato</a>
     <li><a href="https://medium.com/@andrewaeva_55205">Andrewaeva</a>
@@ -3724,7 +3716,7 @@ summary: "A (neverending) List of Infosec Blogs."
     <li><a href="https://mokhansec.medium.com">Mohsin khan</a>
     <li><a href="https://mohsinalibukc.medium.com">Mohsinalibukc</a>
     <li><a href="https://monish-basaniwal.medium.com">Monish Basaniwal</a>
-    <li><a href="https://aidenpearce369.medium.com">Monish Kumar</a> <a href="https://aidenpearce369.github.io">github.io</a>
+    <li><a href="https://aidenpearce369.medium.com">Monish Kumar</a> and <a href="https://aidenpearce369.github.io">github.io</a>
     <li><a href="https://medium.com/@moSec">MoSec</a>
     <li><a href="https://mostafa-mano.medium.com">Mostafa</a>
     <li><a href="https://hector0x.medium.com">Mostafa Mamdoh</a>
