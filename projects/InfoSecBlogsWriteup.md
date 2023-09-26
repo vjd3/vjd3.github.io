@@ -17,7 +17,7 @@ labels:
 summary: "A (neverending) List of Infosec Blogs - Infosec Writeup and Agro Blogs"
 ---
 
-<img class="img-fluid" src="../img/blog/blog_bubble.png)
+<img class="img-fluid" src="../img/blog/blog_bubble.png">
 
 ## Writeup Blogs
 
