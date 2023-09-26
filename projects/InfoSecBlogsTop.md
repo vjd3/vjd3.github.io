@@ -12,10 +12,18 @@ summary: "A (neverending) List of Infosec Blogs"
 
 <img class="img-fluid" src="../img/blog/blog_bubble.png">
 
-### A [General List](InfoSecBlogsGeneral.html) of InfoSec Blogs
+#### Infosec Blogs: toooooooo many
 
-### More Blogs, these about [Writeups and Agro](InfoSecBlogsWriteup.html)
+- A [General List](InfoSecBlogsGeneral.html) of InfoSec Blogs
 
-### These are all on [Medium](InfoSecBlogsMedium.html)
+#### Infosec Writeup and Agro Blogs
 
-### and finally, these are all [commercial](InfoSecBlogsCommercial.html)
+- More Blogs, these about [Writeups and Agro](InfoSecBlogsWriteup.html)
+
+#### Infosec Medium Blogs
+
+- These are all on [Medium](InfoSecBlogsMedium.html)
+
+#### Infosec Commercial Blogs
+
+- and finally, these are all [commercial](InfoSecBlogsCommercial.html)
