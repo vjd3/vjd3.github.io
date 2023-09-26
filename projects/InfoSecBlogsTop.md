@@ -14,16 +14,16 @@ summary: "A (neverending) List of Infosec Blogs"
 
 ## Infosec Blogs: toooooooo many
 
-- A [General List](InfoSecBlogsGeneral.md) of InfoSec Blogs
+- A [General List](InfoSecBlogsGeneral.html) of InfoSec Blogs
 
 ## Infosec Writeup and Agro Blogs
 
-- More Blogs, these about [Writeups and Agro](InfoSecBlogsWriteup.md)
+- More Blogs, these about [Writeups and Agro](InfoSecBlogsWriteup.html)
 
 ## Infosec Medium Blogs
 
-- These are all on [Medium](InfoSecBlogsMedium.md)
+- These are all on [Medium](InfoSecBlogsMedium.html)
 
 ## Infosec Commercial Blogs
 
-- and finally, these are all [commercial](InfoSecBlogsCommercial.md)
+- and finally, these are all [commercial](InfoSecBlogsCommercial.html)

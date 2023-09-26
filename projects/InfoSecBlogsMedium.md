@@ -4,7 +4,7 @@ type: project
 image: ../img/blog/Blog_computer.jpeg
 title: "Infosec Medium Blogs"
 date: 2023-09-01
-published: true
+draft: true
 labels:
   - Blog
 summary: "A (neverending) List of Infosec Blogs - Infosec Medium Blogs"
