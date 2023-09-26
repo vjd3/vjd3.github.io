@@ -11,8 +11,8 @@
       {% assign my_counter = 0 %}
       {% for page in project_pages %}
         {% unless page.draft %}
+          {% assign my_counter = my_counter | plus: 1 %}
           {% include projects/project-card.html page=page %}
-          {% increment my_counter %}
         {% endunless %}
         {% if my_counter == include.limit %}
           {% break %}
