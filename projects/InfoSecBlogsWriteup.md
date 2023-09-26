@@ -36,6 +36,7 @@ summary: "A (neverending) List of Infosec Blogs - Infosec Writeup and Agro Blogs
     <li><a href="https://theinfosecblog.com/blogs/">theinfosecblog.com</a>
     <li><a href="https://writeup-db.com">Writeup-DB</a>
   </ul>
+  
 <h1 id="aggro-sites">Aggro Sites</h1>
   <ul>
     <li><a href="https://0dayfans.com">0dayfans</a>
