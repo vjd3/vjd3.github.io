@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/blog/blog_computer.jpeg
+image: ../img/blog/Blog_computer.jpeg
 title: "Infosec Blogs"
 date: 2023
 published: true
