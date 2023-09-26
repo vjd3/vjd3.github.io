@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/cyber/cybersec.jpeg
 title: "Infosec Tools"
-date: 2023
+date: 2023-09-01
 published: true
 labels:
   - Application
