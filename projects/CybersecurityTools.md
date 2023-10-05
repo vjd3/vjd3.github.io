@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/cyber/cybersec.jpeg
 title: "Infosec Tools"
-date: 2023-09-01
+date: 2023-10-04
 published: true
 labels:
   - Application
@@ -37,6 +37,10 @@ summary: "A List of Cybersecurity Tools."
  - [Snort](https://www.snort.org/) is an Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users. 
  - [Sagan](https://github.com/quadrantsec/sagan) is a multi-threads, high performance log analysis engine. At it's core, Sagan similar to Suricata/Snort but with logs rather than network packets.
 
+#### Endpoint detection and response (EDR)
+ - [OpenEDR](https://www.openedr.com/) is an open source endpoint detection and response platform that provides analytic detection with Mitre ATT&CK visibility for event correlation and root cause analysis of adversarial cyber threat activity and behaviors in real time.
+ - [Bitdefender](https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html) Endpoint Detection and Response
+ - [FortiEDR](https://www.fortinet.com/products/endpoint-security/fortiedr)
 
 <h2 id="osint--reconnaissance">OSINT / Reconnaissance</h2>
   <ul>
