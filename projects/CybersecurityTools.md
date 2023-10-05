@@ -30,6 +30,14 @@ summary: "A List of Cybersecurity Tools."
  - [Autopsy](https://www.sleuthkit.org/autopsy/) is an easy to use, GUI-based program that allows you to efficiently analyze hard drives and smart phones. It has a plug-in architecture that allows you to find add-on modules or develop custom modules in Java or Python.
  - [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
 
+#### Intrusion Detection/Prevention Systems (IDS/IPS)
+ - [Zeek](https://zeek.org/) An Open Source Network Security Monitoring Tool
+ - [Suricata](https://suricata.io/) is a high performance, open source network analysis and threat detection software that includes IDS Alerts, Protocol transactions, Network flows, PCAP Recordings, and Extracted files.
+ - [Kismet](https://www.kismetwireless.net/) is a sniffer, WIDS, and wardriving tool for Wi-Fi, Bluetooth, Zigbee, RF, and more, which runs on Linux and macOS
+ - [Snort](https://www.snort.org/) is an Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users. 
+ - [Sagan](https://github.com/quadrantsec/sagan) is a multi-threads, high performance log analysis engine. At it's core, Sagan similar to Suricata/Snort but with logs rather than network packets.
+
+
 <h2 id="osint--reconnaissance">OSINT / Reconnaissance</h2>
   <ul>
     <li><a href="https://www.abuseipdb.com">AbuseIPDB</a> - Check IP address, domain name or subnet.
@@ -154,6 +162,10 @@ summary: "A List of Cybersecurity Tools."
   <ul>
     <li><a href="https://haveibeenpwned.com/">Have I been pwned?</a> - Check if you have an account that has been compromised in a data breach.
     <li><a href="https://www.grc.com/passwords.htm">Ultra High Security Password Generator</a> - Generate long, high-quality, random passwords.
+    <li><a href="https://hashcat.net/hashcat/">HashCat</a> - Advanced Password Recovery
+    <li><a href="https://www.openwall.com/john/">John the Ripper</a> - password cracker
+    <li><a href="https://ophcrack.sourceforge.io/">Ophcrack</a> is a free Windows password cracker based on rainbow tables. 
+    <li><a href="https://sourceforge.net/projects/thc-hydra.mirror/">THC Hydra</a> Multi Protocol Password Hack also at <a href="https://github.com/vanhauser-thc/thc-hydra">git</a>.
   </ul>
 
 <h2 id="vulnerability-catalogs--tools"><a href="https://shellsharks.com/threat-modeling#vulnerability-catalogs">Vulnerability Catalogs</a> and Tools</h2>
@@ -189,6 +201,10 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://lcamtuf.coredump.cx/p0f3/">P0f</a> (FREE) (STEALTH) is a steath tool using passive traffic fingerprinting to identify OS and software on both endpoints, measurement of system uptime and network topology, automated detection of connection sharing, load balancing, and proxying setups, and detection of clients and servers that forge declarative statements such as X-Mailer or User-Agent.
     <li><a href="https://www.kali.org/">Kali Linux</a> (FREE) is a Debian Linux derivative specifically designed toward testing for security tasks, such as penetration testing, security auditing and digital forensics. Kali includes roughly 600 pre-installed [tools](https://www.kali.org/tools/all-tools/).
     <li><a href="https://www.metasploit.com/">The Metasploit Framework (MSF)</a> (KALI) (FREE) is a collection of exploits–it and security auditing tools. 
+    <li><a href="https://hashcat.net/hashcat/">HashCat</a> - Advanced Password Recovery
+    <li><a href="https://www.openwall.com/john/">John the Ripper</a> - password cracker
+    <li><a href="https://ophcrack.sourceforge.io/">Ophcrack</a> is a free Windows password cracker based on rainbow tables.
+    <li><a href="https://sourceforge.net/projects/thc-hydra.mirror/">THC Hydra</a> Multi Protocol Password Hack also at <a href="https://github.com/vanhauser-thc/thc-hydra">git</a>.
   </ul>
 
 <h2 id="malware-analysis--investigation--intelligence--forensics">Malware Analysis / Investigation / Intelligence / Forensics</h2>
