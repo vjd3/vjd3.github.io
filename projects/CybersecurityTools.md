@@ -30,17 +30,27 @@ summary: "A List of Cybersecurity Tools."
  - [Autopsy](https://www.sleuthkit.org/autopsy/) is an easy to use, GUI-based program that allows you to efficiently analyze hard drives and smart phones. It has a plug-in architecture that allows you to find add-on modules or develop custom modules in Java or Python.
  - [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
 
-#### Intrusion Detection/Prevention Systems (IDS/IPS)
+#### Intrusion Detection/Prevention Systems (IDS/IPS) tools
  - [Zeek](https://zeek.org/) An Open Source Network Security Monitoring Tool
  - [Suricata](https://suricata.io/) is a high performance, open source network analysis and threat detection software that includes IDS Alerts, Protocol transactions, Network flows, PCAP Recordings, and Extracted files.
  - [Kismet](https://www.kismetwireless.net/) is a sniffer, WIDS, and wardriving tool for Wi-Fi, Bluetooth, Zigbee, RF, and more, which runs on Linux and macOS
  - [Snort](https://www.snort.org/) is an Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users. 
  - [Sagan](https://github.com/quadrantsec/sagan) is a multi-threads, high performance log analysis engine. At it's core, Sagan similar to Suricata/Snort but with logs rather than network packets.
 
-#### Endpoint detection and response (EDR)
+#### Endpoint detection and response (EDR) tools
  - [OpenEDR](https://www.openedr.com/) is an open source endpoint detection and response platform that provides analytic detection with Mitre ATT&CK visibility for event correlation and root cause analysis of adversarial cyber threat activity and behaviors in real time.
  - [Bitdefender](https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html) Endpoint Detection and Response
  - [FortiEDR](https://www.fortinet.com/products/endpoint-security/fortiedr)
+
+#### Security Information and Event Management (SIEM) tools
+ - [AlienVault® OSSIM](https://cybersecurity.att.com/products/ossim) is a feature-rich, open-source security information and event management (SIEM) that includes event collection, normalization, and correlation.
+ - [Chronicle](https://chronicle.security/) A modern security operations platform to defend against modern threats. Say goodbye to legacy SIEMs.
+ - [Elastic](https://www.elastic.co/security/siem) Detect, investigate, and respond to evolving threats. Harness data at cloud speed and scale. Heighten host visibility and control. Modernize security with a unified, open SIEM solution.
+ - [Exabeam](https://www.exabeam.com/product/siem/) Cloud-native SIEM at hyperscale with fast, modern search and powerful correlation, reporting, dashboarding, and case management.
+ - [IBM QRadar® Security Intelligence Platform](https://www.ibm.com/products/qradar-siem) SIEM applies machine learning and user behavior analytics to network traffic alongside traditional logs, providing analysts with more accurate, contextualized and prioritized alerts.
+ - [LogRhythm](https://logrhythm.com/solutions/security/siem/)
+ - [Splunk](https://www.splunk.com/en_us/products.html) Detect, investigate and respond faster with Splunk’s Unified Security and Observability Platform.
+
 
 <h2 id="osint--reconnaissance">OSINT / Reconnaissance</h2>
   <ul>
@@ -107,6 +117,7 @@ summary: "A List of Cybersecurity Tools."
 
 <h2 id="scanning--enumeration">Scanning / Enumeration</h2>
   <ul>
+    <li><a href="https://github.com/edoardottt/cariddi">Cariddi</a> - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
     <li><a href="https://search.censys.io">Censys Search</a> - Search IP address, name, protocol or field.
     <li><a href="https://gpt.censys.io">CensysGPT Beta</a> - CensysGPT beta simplifies building queries and empowers users to conduct efficient and effective reconnaissance operations.
     <li><a href="https://www.criminalip.io">CriminalIP</a> - Search for information about assets connected to the public Internet.
@@ -124,17 +135,20 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://internetdb.shodan.io">Shodan | InternetDB</a> - Fast way to see the open ports for an IP address.
     <li><a href="https://www.sslshopper.com/ssl-checker.html">SSL Checker</a> - SSL certificate verification.
     <li><a href="https://www.ssllabs.com/ssltest/">SSL Server Test</a> - Tool from Qualys to perform deep analysis of the configuration of an SSL web server.
-    <li><a href="https://urlscan.io">urlscan.io</a> - Scan and analyze websites.
+    <li><a href="https://urlscan.io">urlscan.io</a> is a free service that scans and analyzes URLs and provides a detailed report summarizing the URL information.
     <li><a href="https://www.wappalyzer.com">Wappalyzer</a> - Identify technologies on websites.
     <li><a href="https://openvas.org/">OpenVAS</a> (FREE) is a full-featured vulnerability scanner with internal programming language for customization and updated content from developer's feed.
     <li><a href="https://cirt.net/Nikto2">Nikto</a> (KALI) (FREE) is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for dangerous/outdated files/programs, server configuration and identification.
+    <li><a href="https://github.com/projectdiscovery/nuclei">Nuclei</a> - Fast and customizable vulnerability scanner based on simple YAML based DSL.
     <li><a href="https://portswigger.net/burp/communitydownload">Burp Community</a> (FREE) is the free version of a paid toolset that includes some great tools (web crawling, Repeater, Decoder, Sequencer, and Comparer).
     <li><a href="https://www.ossec.net/">OSSEC</a> (FREE) is a scalable, multi-platform, open source, free Host-based Intrusion Detection System (HIDS).
+    <li><a href="https://wapiti-scanner.github.io/">Wapti</a> - The web-application vulnerability scanner
   </ul>
 
 <h2 id="phishing">Phishing</h2>
   <ul>
     <li><a href="https://www.expireddomains.net/deleted-domains/">ExpiredDomains.net</a> - Expired domain name search engine.
+    <li><a href="https://www.kitploit.com/">Kidploit</a> - PenTest & Hacking Tools for WINDOWS, LINUX, MACOS, ANDROID, IPHONE, SQLI, and OTHERS
     <li><a href="https://phish.ly">phish.ly</a> - Analyze suspicious emails with Tines and urlscan
     <li><a href="https://getgophish.com/">Gophish</a> (FREE) is a powerful, easy-to-use, open-source phishing toolkit meant to help pentesters and businesses conduct real-world phishing simulations.
   </ul>
@@ -152,6 +166,7 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://gtfoargs.github.io">GTFOArgs</a> - Curated list of Unix binaries that can be manipulated for argument injection
     <li><a href="https://gtfobins.github.io">GTFOBins</a> - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
     <li><a href="https://hijacklibs.net">Hijack Libs</a> - Curated list of DLL Hijacking candidates.
+    <li><a href="https://www.kitploit.com/">Kidploit</a> - PenTest & Hacking Tools for WINDOWS, LINUX, MACOS, ANDROID, IPHONE, SQLI, and OTHERS
     <li><a href="https://lots-project.com">Living Off Trusted Sites (LOTS) Project</a> - Repository of popular, legitimate domains that can be used to conduct phishing, C<sup>2</sup>, exfiltration and tool downloading while evading detection.
     <li><a href="https://lofl-project.github.io">LOFLCAB</a> - Living off the Foreign Land Cmdlets and Binaries
     <li><a href="https://lolbas-project.github.io">LOLBAS</a> - Curated list of Windows binaries that can be used to bypass local security restrictions in misconfigured systems.
@@ -167,6 +182,7 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://haveibeenpwned.com/">Have I been pwned?</a> - Check if you have an account that has been compromised in a data breach.
     <li><a href="https://www.grc.com/passwords.htm">Ultra High Security Password Generator</a> - Generate long, high-quality, random passwords.
     <li><a href="https://hashcat.net/hashcat/">HashCat</a> - Advanced Password Recovery
+    <li><a href="https://www.kitploit.com/">Kidploit</a> - PenTest & Hacking Tools for WINDOWS, LINUX, MACOS, ANDROID, IPHONE, SQLI, and OTHERS
     <li><a href="https://www.openwall.com/john/">John the Ripper</a> - password cracker
     <li><a href="https://ophcrack.sourceforge.io/">Ophcrack</a> is a free Windows password cracker based on rainbow tables. 
     <li><a href="https://sourceforge.net/projects/thc-hydra.mirror/">THC Hydra</a> Multi Protocol Password Hack also at <a href="https://github.com/vanhauser-thc/thc-hydra">git</a>.
@@ -196,6 +212,7 @@ summary: "A List of Cybersecurity Tools."
   <ul>
     <li><a href="https://atomicredteam.io/atomics/">Atomic Red Team</a>
     <li><a href="https://www.thec2matrix.com/matrix">C2 Matrix</a>
+    <li><a href="https://www.kitploit.com/">Kidploit</a> - PenTest & Hacking Tools for WINDOWS, LINUX, MACOS, ANDROID, IPHONE, SQLI, and OTHERS
     <li><a href="https://www.loldrivers.io">Living Off The Land Drivers</a> - Curated list of Windows drivers used by adversaries to bypass security controls and carry out attacks.
     <li><a href="https://unprotect.it">Unprotect Project</a> - Search Evasion Techniques.
     <li><a href="https://wadcoms.github.io">WADComs</a> - Curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
@@ -215,6 +232,7 @@ summary: "A List of Cybersecurity Tools."
   <ul>
     <li><a href="https://otx.alienvault.com">Alien Vault OTX</a> - Open threat intelligence community.
     <li><a href="https://www.binaryedge.io">Binary Edge</a> - Real-time threat intelligence streams.
+    <li><a href="https://capesandbox.com/analysis/">CAPE Sandbox</a> is an open source service used to automate the analysis of suspicious files. Using an isolated environment, malicious files such as malware are analyzed and a comprehensive report outlines the malware behavior.
     <li><a href="https://godbolt.org/">Compiler Explorer</a> - Emulated compilation environment for a variety of assembly languages.
     <li><a href="https://controlcompass.github.io/">Control Validation Compass</a> - Threat modeling aide and purple team content repository.
     <li><a href="https://gchq.github.io/CyberChef/">CyberChef</a> - The cyber swiss army knife.
@@ -226,8 +244,9 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="http://www.getghiro.org">Ghiro</a> - Forensic analysis
     <li><a href="https://labs.inquest.net">InQuest Labs</a> - Indicator Lookup.
     <li><a href="https://intel.taggartinstitute.org/">intel.taggartinstitute.org</a> - RSS feed of infosec intel
+    <li><a href="https://virusscan.jotti.org/">Jotti</a> malware scan is a free service that lets you scan suspicious files with several antivirus programs. There are some limitations to the number of files that you can submit.
     <li><a href="https://malapi.io">MalAPI.io</a> - MalAPI.io maps <a href="https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list">Windows APIs</a> to common techniques used by malware.
-    <li><a href="https://bazaar.abuse.ch">Malware Bazaar</a>
+    <li><a href="https://bazaar.abuse.ch">Malware Bazaar</a> is a free repository for malware samples. Malware samples are a great source of threat intelligence that can be used for research purposes.
     <li><a href="https://malware.rip">Malware.rip</a> - Open documents from untrustworthy websites or users.
     <li><a href="https://www.malware-traffic-analysis.net/">Malware-Traffic-Analysis.net</a> - A source for pcap files and malware samples.
     <li><a href="https://www.onyphe.io">Onyphe</a> - Cyber defense search engine.
