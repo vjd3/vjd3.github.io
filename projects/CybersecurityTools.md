@@ -55,31 +55,39 @@ for (i = 0; i < acc.length; i++) {
 
 <a href="https://www.cisa.gov/">CISA’s</a> list of <a href="https://www.cisa.gov/free-cybersecurity-services-and-tools">free cybersecurity services and tools</a>.
 
-#### Digital Forensics (FREE)
- - [Sleuthkit and Autopsy](https://www.sleuthkit.org/)
- - [Autopsy](https://www.sleuthkit.org/autopsy/) is an easy to use, GUI-based program that allows you to efficiently analyze hard drives and smart phones. It has a plug-in architecture that allows you to find add-on modules or develop custom modules in Java or Python.
- - [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
+<h3>Digital Forensics (FREE)</h3>
+<ul>
+<li><a href="https://www.sleuthkit.org/">Sleuthkit and Autopsy</a> 
+<li><a href="https://www.sleuthkit.org/autopsy/">Autopsy</a> is an easy to use, GUI-based program that allows you to efficiently analyze hard drives and smart phones. It has a plug-in architecture that allows you to find add-on modules or develop custom modules in Java or Python.
+<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit</a> is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
+</ul>
 
-#### Intrusion Detection/Prevention Systems (IDS/IPS) tools
- - [Zeek](https://zeek.org/) An Open Source Network Security Monitoring Tool
- - [Suricata](https://suricata.io/) is a high performance, open source network analysis and threat detection software that includes IDS Alerts, Protocol transactions, Network flows, PCAP Recordings, and Extracted files.
- - [Kismet](https://www.kismetwireless.net/) is a sniffer, WIDS, and wardriving tool for Wi-Fi, Bluetooth, Zigbee, RF, and more, which runs on Linux and macOS
- - [Snort](https://www.snort.org/) is an Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users. 
- - [Sagan](https://github.com/quadrantsec/sagan) is a multi-threads, high performance log analysis engine. At it's core, Sagan similar to Suricata/Snort but with logs rather than network packets.
+<h3>Intrusion Detection/Prevention Systems (IDS/IPS) tools</h3>
+<ul>
+<li><a href="https://zeek.org/">Zeek</a> An Open Source Network Security Monitoring Tool
+<li><a href="https://suricata.io/">Suricata</a> is a high performance, open source network analysis and threat detection software that includes IDS Alerts, Protocol transactions, Network flows, PCAP Recordings, and Extracted files.
+<li><a href="https://www.kismetwireless.net/">Kismet</a> is a sniffer, WIDS, and wardriving tool for Wi-Fi, Bluetooth, Zigbee, RF, and more, which runs on Linux and macOS
+<li><a href="https://www.snort.org/">Snort</a> is an Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users. 
+<li><a href="https://github.com/quadrantsec/sagan">Sagan</a> is a multi-threads, high performance log analysis engine. At it's core, Sagan similar to Suricata/Snort but with logs rather than network packets.
+</ul>
 
-#### Endpoint detection and response (EDR) tools
- - [OpenEDR](https://www.openedr.com/) is an open source endpoint detection and response platform that provides analytic detection with Mitre ATT&CK visibility for event correlation and root cause analysis of adversarial cyber threat activity and behaviors in real time.
- - [Bitdefender](https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html) Endpoint Detection and Response
- - [FortiEDR](https://www.fortinet.com/products/endpoint-security/fortiedr)
+<h3>Endpoint detection and response (EDR) tools</h3>
+<ul>
+<li><a href="https://www.openedr.com/">OpenEDR</a> is an open source endpoint detection and response platform that provides analytic detection with Mitre ATT&CK visibility for event correlation and root cause analysis of adversarial cyber threat activity and behaviors in real time.
+<li><a href="https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html">Bitdefender</a> Endpoint Detection and Response
+<li><a href="https://www.fortinet.com/products/endpoint-security/fortiedr">FortiEDR</a> 
+</ul>
 
-#### Security Information and Event Management (SIEM) tools
- - [AlienVault® OSSIM](https://cybersecurity.att.com/products/ossim) is a feature-rich, open-source security information and event management (SIEM) that includes event collection, normalization, and correlation.
- - [Chronicle](https://chronicle.security/) A modern security operations platform to defend against modern threats. Say goodbye to legacy SIEMs.
- - [Elastic](https://www.elastic.co/security/siem) Detect, investigate, and respond to evolving threats. Harness data at cloud speed and scale. Heighten host visibility and control. Modernize security with a unified, open SIEM solution.
- - [Exabeam](https://www.exabeam.com/product/siem/) Cloud-native SIEM at hyperscale with fast, modern search and powerful correlation, reporting, dashboarding, and case management.
- - [IBM QRadar® Security Intelligence Platform](https://www.ibm.com/products/qradar-siem) SIEM applies machine learning and user behavior analytics to network traffic alongside traditional logs, providing analysts with more accurate, contextualized and prioritized alerts.
- - [LogRhythm](https://logrhythm.com/solutions/security/siem/)
- - [Splunk](https://www.splunk.com/en_us/products.html) Detect, investigate and respond faster with Splunk’s Unified Security and Observability Platform.
+<h3>Security Information and Event Management (SIEM) tools</h3>
+  <ul>
+    <li><a href="https://cybersecurity.att.com/products/ossim">AlienVault® OSSIM</a> is a feature-rich, open-source security information and event management (SIEM) that includes event collection, normalization, and correlation.
+    <li><a href="https://chronicle.security/">Chronicle</a> A modern security operations platform to defend against modern threats. Say goodbye to legacy SIEMs.
+    <li><a href="https://www.elastic.co/security/siem">Elastic</a> Detect, investigate, and respond to evolving threats. Harness data at cloud speed and scale. Heighten host visibility and control. Modernize security with a unified, open SIEM solution.
+    <li><a href="https://www.exabeam.com/product/siem/">Exabeam</a> Cloud-native SIEM at hyperscale with fast, modern search and powerful correlation, reporting, dashboarding, and case management.
+    <li><a href="https://www.ibm.com/products/qradar-siem">IBM QRadar® Security Intelligence Platform</a> SIEM applies machine learning and user behavior analytics to network traffic alongside traditional logs, providing analysts with more accurate, contextualized and prioritized alerts.
+    <li><a href="https://logrhythm.com/solutions/security/siem/">LogRhythm]
+    <li><a href="https://www.splunk.com/en_us/products.html">Splunk</a> Detect, investigate and respond faster with Splunk’s Unified Security and Observability Platform.
+  </ul>
 
 <h2 id="osint--reconnaissance">OSINT / Reconnaissance</h2>
   <ul>
