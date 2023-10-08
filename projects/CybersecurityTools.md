@@ -51,6 +51,20 @@ summary: "A List of Cybersecurity Tools."
  - [LogRhythm](https://logrhythm.com/solutions/security/siem/)
  - [Splunk](https://www.splunk.com/en_us/products.html) Detect, investigate and respond faster with Splunk’s Unified Security and Observability Platform.
 
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<button class="accordion">Section 2</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<button class="accordion">Section 3</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
 
 <h2 id="osint--reconnaissance">OSINT / Reconnaissance</h2>
   <ul>
@@ -296,6 +310,7 @@ summary: "A List of Cybersecurity Tools."
   <ul>
     <li><a href="https://carbon.now.sh">carbon</a> - Create and share beautiful images of source code.
     <li><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fstrongpasswordgenerator.com%2F&amp;showsource=yes">W3 Validator</a> - Check HTML to see if it is W3 compliant.
+    <li><a href="https://www.pythonstacks.com/blog/post/python-libraries-hacking/">Python Hacking Libraries</a> - Ethical only of course... 
   </ul>
 
 <h2 id="assembly--reverse-engineering">Assembly / Reverse Engineering</h2>
