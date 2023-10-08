@@ -366,3 +366,19 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://github.com/up209d/ResourcesSaverExt">ResourcesSaver</a> is a Chrome extension that allows you to completely clone a website and all of its operating code/javascript and dependencies.
   </ul>
 
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
