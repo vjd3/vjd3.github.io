@@ -17,9 +17,39 @@ labels:
 summary: "A List of Cybersecurity Tools."
 ---
 
-<img class="img-fluid" max-width="500px" width="100%" src="../img/cyber/cybertree.jpeg">
+<img class="img-fluid" max-width="300px" width="100%" src="../img/cyber/cybertree.jpeg">
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
 
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
 <!--![Cybersecurity](../img/cyber/cybertree.jpg)-->
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<button class="accordion">Section 2</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<button class="accordion">Section 3</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
 
 [Threat Modeling Field Guide](https://shellsharks.com/threat-modeling#vulnerability-catalogs) by Mike Sass
 
@@ -50,21 +80,6 @@ summary: "A List of Cybersecurity Tools."
  - [IBM QRadar® Security Intelligence Platform](https://www.ibm.com/products/qradar-siem) SIEM applies machine learning and user behavior analytics to network traffic alongside traditional logs, providing analysts with more accurate, contextualized and prioritized alerts.
  - [LogRhythm](https://logrhythm.com/solutions/security/siem/)
  - [Splunk](https://www.splunk.com/en_us/products.html) Detect, investigate and respond faster with Splunk’s Unified Security and Observability Platform.
-
-<button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 2</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
 
 <h2 id="osint--reconnaissance">OSINT / Reconnaissance</h2>
   <ul>
@@ -367,19 +382,4 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://github.com/up209d/ResourcesSaverExt">ResourcesSaver</a> is a Chrome extension that allows you to completely clone a website and all of its operating code/javascript and dependencies.
   </ul>
 
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
 
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>
