@@ -17,7 +17,7 @@ labels:
 summary: "A List of Cybersecurity Tools."
 ---
 
-<img class="img-fluid" src="../img/cyber/cybertree.jpeg">
+<img class="img-fluid" max-width="500px" width="100%" src="../img/cyber/cybertree.jpeg">
 
 <!--![Cybersecurity](../img/cyber/cybertree.jpg)-->
 
@@ -297,6 +297,7 @@ summary: "A List of Cybersecurity Tools."
   <ul>
     <li><a href="http://ss64.com">Command line reference</a> - Command line references for Linux, macOS, CMD, PowerShell, Databases, VB Script, ASCII, etc…
     <li><a href="https://explainshell.com/">explainshell.com</a> - write down a command-line to see the help text that matches each argument.
+    <li><a href="https://linuxcommandlibrary.com">Linux Command Library</a> including hacking tools.
     <li><a href="http://www.oidview.com/mibs/311/md-311-1.html">Microsoft MIB Database</a> - A database of SNMP MIBs.
   </ul>
 
@@ -352,7 +353,7 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://infosec.house">Infosec House</a> - Tools & Resources for Cyber Security Operations
     <li><a href="https://infosecmap.com">InfoSecMap</a> - Mapping out the best InfoSec events and groups!
     <li><a href="https://linuxcommandlibrary.com">Linux Command Library</a> including hacking tools.
-    <li><a href="https://livedom.bentkowski.info">LIVEDOM.NG</a>Enter HTML markup below and compare how it is parsed by various parsers and sanitizers.
+    <li><a href="https://livedom.bentkowski.info">LIVEDOM.NG</a> Enter HTML markup below and compare how it is parsed by various parsers and sanitizers.
     <li><a href="https://offsec.tools">offsec.tools</a> - A vast collection of security tools for bug bounty, pentest and red teaming.
     <li><a href="https://opensourcesecurityindex.io">Open Source Security Index</a> - The Most Popular and Fastest Growing Open Source Security Projects on GitHub
     <li><a href="https://passkeys.directory">Passkeys.directory</a> - Websites, apps and services using passkeys for authentication
