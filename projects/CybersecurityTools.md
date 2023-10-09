@@ -22,9 +22,9 @@ summary: "A List of Cybersecurity Tools."
 
 <details>
   <summary>CISA</summary>
-  <p><ul>
+  <ul><li>
     <a href="https://www.cisa.gov/">CISA’s</a> list of <a href="https://www.cisa.gov/free-cybersecurity-services-and-tools">free cybersecurity services and tools</a>.
-  </ul></p>
+  </li></ul>
 </details>
 
 <details>
@@ -370,7 +370,7 @@ summary: "A List of Cybersecurity Tools."
   <ul>
     <li><a href="https://privacyrights.org/data-breaches">PrivacyRights.org Data Breaches</a></li>
     <li><a href="https://www.privacyguides.org/en/tools/">Privacy Guides</a></li>
-    <li><a href="https://privacy.sexy">Privacy.Sexy</a><li></li>
+    <li><a href="https://privacy.sexy">Privacy.Sexy</a></li>
   </ul>
 </details>
 
