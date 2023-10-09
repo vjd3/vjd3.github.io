@@ -17,84 +17,55 @@ labels:
 summary: "A List of Cybersecurity Tools."
 ---
 
-<img class="img-fluid" max-width="300px" width="100%" src="../img/cyber/cybertree.jpeg">
-
-<!-- Script for accordion items-->
-```js
-  <script>
-    var acc = document.getElementsByClassName("accordion");
-    var i;
-    
-    for (i = 0; i < acc.length; i++)
-    {
-      acc[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var panel = this.nextElementSibling;
-        if (panel.style.display === "block") {
-          panel.style.display = "none";
-        } else {
-          panel.style.display = "block";
-        }
-      });
-    }
-
-    </script>
-
-```
-
+<img class="img-fluid" src="../img/cyber/cybertree.jpeg" style="max-width:400px;width:100%">
 <!--![Cybersecurity](../img/cyber/cybertree.jpg)-->
+
 <details>
   <summary>CISA</summary>
-  <a href="https://www.cisa.gov/">CISA’s</a> list of <a href="https://www.cisa.gov/free-cybersecurity-services-and-tools">free cybersecurity services and tools</a>.
+  <ul>
+    <a href="https://www.cisa.gov/">CISA’s</a> list of <a href="https://www.cisa.gov/free-cybersecurity-services-and-tools">free cybersecurity services and tools</a>.
+  </ul>
 </details>
 
-<button class="accordion">Threat Modeling</button>
-<div class="panel">
-  <p>
+<details>
+  <summary>Threat Modeling</summary>
+  <ul>
+    <li><a href="https://shellsharks.com/threat-modeling#vulnerability-catalogs">Threat Modeling Field Guide</a> by Mike Sass
+  </ul>
+</details>
+
+<details>
+  <summary>Digital Forensics (FREE)</summary>
+  <ul>
+    <li><a href="https://www.sleuthkit.org/">Sleuthkit and Autopsy</a> 
+    <li><a href="https://www.sleuthkit.org/autopsy/">Autopsy</a> is an easy to use, GUI-based program that allows you to efficiently analyze hard drives and smart phones. It has a plug-in architecture that allows you to find add-on modules or develop custom modules in Java or Python.
+    <li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit</a> is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
+  </ul>
+</details>
+
+<details>
+  <summary>Intrusion Detection/Prevention Systems (IDS/IPS) tools</summary>
     <ul>
-      <li><a href="https://shellsharks.com/threat-modeling#vulnerability-catalogs">Threat Modeling Field Guide</a> by Mike Sass
-  </p>
-</div>
+      <li><a href="https://zeek.org/">Zeek</a> An Open Source Network Security Monitoring Tool
+      <li><a href="https://suricata.io/">Suricata</a> is a high performance, open source network analysis and threat detection software that includes IDS Alerts, Protocol transactions, Network flows, PCAP Recordings, and Extracted files.
+      <li><a href="https://www.kismetwireless.net/">Kismet</a> is a sniffer, WIDS, and wardriving tool for Wi-Fi, Bluetooth, Zigbee, RF, and more, which runs on Linux and macOS
+      <li><a href="https://www.snort.org/">Snort</a> is an Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users. 
+      <li><a href="https://github.com/quadrantsec/sagan">Sagan</a> is a multi-threads, high performance log analysis engine. At it's core, Sagan similar to Suricata/Snort but with logs rather than network packets.
+    </ul>
+</details>
 
-<button class="accordion">Digital Forensics (FREE)</button>
-<div class="panel">
-  <p>
+<details>
+  <summary>Endpoint detection and response (EDR) tools</summary>
   <ul>
-<li><a href="https://www.sleuthkit.org/">Sleuthkit and Autopsy</a> 
-<li><a href="https://www.sleuthkit.org/autopsy/">Autopsy</a> is an easy to use, GUI-based program that allows you to efficiently analyze hard drives and smart phones. It has a plug-in architecture that allows you to find add-on modules or develop custom modules in Java or Python.
-<li><a href="https://www.sleuthkit.org/sleuthkit/">The Sleuth Kit</a> is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
-</ul>
-  </p>
-</div>
+    <li><a href="https://www.openedr.com/">OpenEDR</a> is an open source endpoint detection and response platform that provides analytic detection with Mitre ATT&CK visibility for event correlation and root cause analysis of adversarial cyber threat activity and behaviors in real time.
+    <li><a href="https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html">Bitdefender</a> Endpoint Detection and Response
+    <li><a href="https://www.fortinet.com/products/endpoint-security/fortiedr">FortiEDR</a> 
+  </ul>
+</details>
 
-<button class="accordion">Intrusion Detection/Prevention Systems (IDS/IPS) tools</button>
-<div class="panel">
-  <p>
+<details>
+  <summary>Security Information and Event Management (SIEM) tools</summary>
   <ul>
-<li><a href="https://zeek.org/">Zeek</a> An Open Source Network Security Monitoring Tool
-<li><a href="https://suricata.io/">Suricata</a> is a high performance, open source network analysis and threat detection software that includes IDS Alerts, Protocol transactions, Network flows, PCAP Recordings, and Extracted files.
-<li><a href="https://www.kismetwireless.net/">Kismet</a> is a sniffer, WIDS, and wardriving tool for Wi-Fi, Bluetooth, Zigbee, RF, and more, which runs on Linux and macOS
-<li><a href="https://www.snort.org/">Snort</a> is an Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users. 
-<li><a href="https://github.com/quadrantsec/sagan">Sagan</a> is a multi-threads, high performance log analysis engine. At it's core, Sagan similar to Suricata/Snort but with logs rather than network packets.
-</ul>
-  </p>
-</div>
-
-<button class="accordion">Endpoint detection and response (EDR) tools</button>
-<div class="panel">
-  <p>
-  <ul>
-<li><a href="https://www.openedr.com/">OpenEDR</a> is an open source endpoint detection and response platform that provides analytic detection with Mitre ATT&CK visibility for event correlation and root cause analysis of adversarial cyber threat activity and behaviors in real time.
-<li><a href="https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html">Bitdefender</a> Endpoint Detection and Response
-<li><a href="https://www.fortinet.com/products/endpoint-security/fortiedr">FortiEDR</a> 
-</ul>
-</p>
-</div>
-
-<button class="accordion">Security Information and Event Management (SIEM) tools</button>
-<div class="panel">
-  <p>
-    <ul>
     <li><a href="https://cybersecurity.att.com/products/ossim">AlienVault® OSSIM</a> is a feature-rich, open-source security information and event management (SIEM) that includes event collection, normalization, and correlation.
     <li><a href="https://chronicle.security/">Chronicle</a> A modern security operations platform to defend against modern threats. Say goodbye to legacy SIEMs.
     <li><a href="https://www.elastic.co/security/siem">Elastic</a> Detect, investigate, and respond to evolving threats. Harness data at cloud speed and scale. Heighten host visibility and control. Modernize security with a unified, open SIEM solution.
@@ -103,13 +74,11 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://logrhythm.com/solutions/security/siem/">LogRhythm]
     <li><a href="https://www.splunk.com/en_us/products.html">Splunk</a> Detect, investigate and respond faster with Splunk’s Unified Security and Observability Platform.
   </ul>
-</p>
-</div>
+</details>
 
-<button class="accordion">OSINT / Reconnaissance</button>
-<div class="panel">
-  <p>
-    <ul>
+<details>
+  <summary>OSINT / Reconnaissance</summary>
+  <ul>
     <li><a href="https://www.abuseipdb.com">AbuseIPDB</a> - Check IP address, domain name or subnet.
     <li><a href="https://www.arin.net/">American Registry for Internet Numbers (ARIN)</a> - Nonprofit, member-based organization that administers IP addresses and ASNs in support of the operation and growth of the Internet.
     <li><a href="http://www.betterwhois.com/">Better Whois</a> - The whois domain search that works with all registrars.
@@ -170,13 +139,11 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://cipher387.github.io/osintmap/">Worldwide OSINT tools map</a> - Phonebooks, cadastral maps, vehicle numbers databases, business registries, passengers lists, court records and much more.
     <li><a href="https://www.zoomeye.org">ZoomEye</a> - Target information search.
   </ul>
-</p>
-</div>
+</details>
 
-<button class="accordion">Scanning / Enumeration</button>
-<div class="panel">
-  <p>
-    <ul>
+<details>
+  <summary>Scanning / Enumeration</summary>
+  <ul>
     <li><a href="https://github.com/edoardottt/cariddi">Cariddi</a> - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
     <li><a href="https://search.censys.io">Censys Search</a> - Search IP address, name, protocol or field.
     <li><a href="https://gpt.censys.io">CensysGPT Beta</a> - CensysGPT beta simplifies building queries and empowers users to conduct efficient and effective reconnaissance operations.
@@ -204,25 +171,21 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://www.ossec.net/">OSSEC</a> (FREE) is a scalable, multi-platform, open source, free Host-based Intrusion Detection System (HIDS).
     <li><a href="https://wapiti-scanner.github.io/">Wapti</a> - The web-application vulnerability scanner
   </ul>
-</p>
-</div>
+</details>
 
-<button class="accordion">Phishing</button>
-<div class="panel">
-  <p>
-    <ul>
+<details>
+  <summary>Phishing</summary>
+  <ul>
     <li><a href="https://www.expireddomains.net/deleted-domains/">ExpiredDomains.net</a> - Expired domain name search engine.
     <li><a href="https://www.kitploit.com/">Kidploit</a> - PenTest & Hacking Tools for WINDOWS, LINUX, MACOS, ANDROID, IPHONE, SQLI, and OTHERS
     <li><a href="https://phish.ly">phish.ly</a> - Analyze suspicious emails with Tines and urlscan
     <li><a href="https://getgophish.com/">Gophish</a> (FREE) is a powerful, easy-to-use, open-source phishing toolkit meant to help pentesters and businesses conduct real-world phishing simulations.
   </ul>
-</p>
-</div>
+</details>
 
-<button class="accordion">Exploits</button>
-<div class="panel">
-  <p>
-    <ul>
+<details>
+  <summary>Exploits</summary>
+  <ul>
     <li><a href="https://www.bugbountyhunting.com/">Bug Bounty Hunting Search Engine</a> - Search for writeups, payloads, bug bounty tips, and more…
     <li><a href="https://evasions.checkpoint.com/">CP-R Evasion Techniques</a>
     <li><a href="https://cvexploits.io">CVExploits</a> - Comprehensive database for CVE exploits.
@@ -244,13 +207,11 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://sploitus.com/">SPLOITUS</a> - Exploit search database.
     <li><a href="http://xssed.com/">XSSed</a> - Information on and an archive of Cross-Site-Scripting (XSS) attacks.
   </ul>
-</p>
-</div>
+</details>
 
-<button class="accordion">Password</button>
-<div class="panel">
-  <p>
-    <ul>
+<details>
+  <summary>Password</summary>
+  <ul>
     <li><a href="https://haveibeenpwned.com/">Have I been pwned?</a> - Check if you have an account that has been compromised in a data breach.
     <li><a href="https://www.grc.com/passwords.htm">Ultra High Security Password Generator</a> - Generate long, high-quality, random passwords.
     <li><a href="https://hashcat.net/hashcat/">HashCat</a> - Advanced Password Recovery
@@ -259,13 +220,11 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://ophcrack.sourceforge.io/">Ophcrack</a> is a free Windows password cracker based on rainbow tables. 
     <li><a href="https://sourceforge.net/projects/thc-hydra.mirror/">THC Hydra</a> Multi Protocol Password Hack also at <a href="https://github.com/vanhauser-thc/thc-hydra">git</a>.
   </ul>
-</p>
-</div>
+</details>
 
-<button class="accordion">Vulnerability Catalogs and Tools</button>
-<div class="panel">
-  <p>
-    <ul>
+<details>
+  <summary>Vulnerability Catalogs and Tools</summary>
+  <ul>
     <li><a href="https://shellsharks.com/threat-modeling#vulnerability-catalogs">Vulnerability Catalogs</a>
     <li><a href="https://atlas.mitre.org">ATLAS</a>
     <li><a href="https://attack.mitre.org">ATT&amp;CK</a>
@@ -284,13 +243,11 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://vulners.com">Vulners</a> - Search engine for security intelligence.
     <li><a href="https://www.wordfence.com/threat-intel/">Wordfence Intelligence</a> - Threat intelligence data platform which currently consists of an incredibly comprehensive database of WordPress vulnerabilities.
   </ul>
-</p>
-</div>
+</details>
 
-<button class="accordion">Red Team</button>
-<div class="panel">
-  <p>
-    <ul>
+<details>
+  <summary>Red Team</summary>
+  <ul>
     <li><a href="https://atomicredteam.io/atomics/">Atomic Red Team</a>
     <li><a href="https://www.thec2matrix.com/matrix">C2 Matrix</a>
     <li><a href="https://www.kitploit.com/">Kidploit</a> - PenTest & Hacking Tools for WINDOWS, LINUX, MACOS, ANDROID, IPHONE, SQLI, and OTHERS
@@ -308,69 +265,10 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://ophcrack.sourceforge.io/">Ophcrack</a> is a free Windows password cracker based on rainbow tables.
     <li><a href="https://sourceforge.net/projects/thc-hydra.mirror/">THC Hydra</a> Multi Protocol Password Hack also at <a href="https://github.com/vanhauser-thc/thc-hydra">git</a>.
   </ul>
-</p>
-</div>
+</details>
 
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-
-<h2 id="exploits"></h2>
-
-<h2 id="password"></h2>
-
-<h2 id="vulnerability-catalogs--tools"></h2>
-
-<h2 id="red-team"></h2>
-
-<h2 id="malware-analysis--investigation--intelligence--forensics">Malware Analysis / Investigation / Intelligence / Forensics</h2>
+<details>
+  <summary>>Malware Analysis / Investigation / Intelligence / Forensics</summary>
   <ul>
     <li><a href="https://otx.alienvault.com">Alien Vault OTX</a> - Open threat intelligence community.
     <li><a href="https://www.binaryedge.io">Binary Edge</a> - Real-time threat intelligence streams.
@@ -403,16 +301,20 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://yaradbg.dev">YaraDbg</a> - Web-based Yara debugger to help security analysts to write hunting or detection rules.
     <li><a href="https://docs.remnux.org/">REMnux</a> (FREE) a Linux toolkit for reverse-engineering and analyzing malicious software. >
   </ul>
+</details>
 
-<h2 id="ransomware">Ransomware</h2>
+<details>
+  <summary>>Ransomware</summary>
   <ul>
     <li><a href="https://www.comparitech.com/blog/information-security/global-ransomware-attacks/">Map of worldwide ransomware attacks</a>
     <li><a href="https://www.ransomlook.io">RansomLook</a> is a ransomware leak site monitoring tool.
     <li><a href="https://ransomware.live">Ransomware.live</a> is a ransomware leak site monitoring tool. It will scrape all of the entries on various ransomware leak sites and published them here.
     <li><a href="https://rcxmatrix.org">Ransomeware Control Matrix</a> - Cybersecurity framework designed to help organizations defend against ransomware attacks by providing a comprehensive set of controls that can be implemented to reduce the risk of such attacks.<li>
   </ul>
+</details>
 
-<h2 id="cloud">Cloud</h2>
+<details>
+  <summary>>Cloud</summary>
   <ul>
     <li><a href="https://buckets.grayhatwarfare.com">Grayhat Warfare</a> - Public Bucket Finder
     <li><a href="https://osint.sh/buckets/">OSINT.SH Public Buckets</a> - Public Bucket Finder
@@ -420,29 +322,37 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://comparecloud.in">Public Cloud Services Comparison</a>
     <li><a href="https://purpleleaf.io/s3-scanner/">S3 Bucket Scanner | purpleleaf</a> - Checks S3 bucket-level permissions that may allow data exposure.
   </ul>
+</details>
 
-<h2 id="os--scripting">OS / Scripting</h2>
+<details>
+  <summary>>OS / Scripting</summary>
   <ul>
     <li><a href="http://ss64.com">Command line reference</a> - Command line references for Linux, macOS, CMD, PowerShell, Databases, VB Script, ASCII, etc…
     <li><a href="https://explainshell.com/">explainshell.com</a> - write down a command-line to see the help text that matches each argument.
     <li><a href="https://linuxcommandlibrary.com">Linux Command Library</a> including hacking tools.
     <li><a href="http://www.oidview.com/mibs/311/md-311-1.html">Microsoft MIB Database</a> - A database of SNMP MIBs.
   </ul>
+</details>
 
-<h2 id="regex">Regex</h2>
+<details>
+  <summary>>Regex</summary>
   <ul>
     <li><a href="http://www.regexr.com/">RegExr</a> - Learn, build and test RegEx.
     <li><a href="https://regex101.com/">regex101</a>
   </ul>
+</details>
 
-<h2 id="programming">Programming</h2>
+<details>
+  <summary>>Programming</summary>
   <ul>
     <li><a href="https://carbon.now.sh">carbon</a> - Create and share beautiful images of source code.
     <li><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fstrongpasswordgenerator.com%2F&amp;showsource=yes">W3 Validator</a> - Check HTML to see if it is W3 compliant.
     <li><a href="https://www.pythonstacks.com/blog/post/python-libraries-hacking/">Python Hacking Libraries</a> - Ethical only of course... 
   </ul>
+</details>
 
-<h2 id="assembly--reverse-engineering">Assembly / Reverse Engineering</h2>
+<details>
+  <summary>>Assembly / Reverse Engineering</summary>
   <ul>
     <li><a href="http://www.exploringbinary.com/twos-complement-converter/">Decimal/Two’s Complement Converter</a>
     <li><a href="https://disasm.pro">Disasm.pro</a>
@@ -453,22 +363,29 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="http://terminus.rewolf.pl/terminus/">Terminus Project</a> - Automatically generated diff of Windows structures.
     <li><a href="https://windiff.vercel.app">WinDiff</a>
   </ul>
+</details>
 
-<h2 id="breach">Data Breach and Data Privacy</h2>
+<details>
+  <summary>>Data Breach and Data Privacy</summary>
   <ul>
     <li><a href="https://privacyrights.org/data-breaches">PrivacyRights.org Data Breaches</a>
     <li><a href="https://www.privacyguides.org/en/tools/">Privacy Guides</a>
     <li><a href="https://privacy.sexy">Privacy.Sexy</a><li>
   </ul>
+</details>
 
-<h2 id="paid">Paid Tools and Sites</h2>
+<details>
+  <summary>>Paid Tools and Sites</summary>
   <ul>
     <li><a href="https://securityonionsolutions.com/">Security Onion</a> (PAID) is an open source software collection based on the Linux kernel that makes a comprehensive profile of a system's security posture, threat hunting, network security monitoring, and log management. 
     <li><a href="https://www.snort.org/">Snort</a> (PAID) is an open source network intrusion prevention system (IPS) and intrusion detection system (IDS) capable of real-time traffic analysis and logging. 
     <li><a href="https://www.defendify.com/">Defendify</a> (PAID) (some FREE) is an all-in-one cybersecutiry platform with 13 modules in one platform backed by trusted cybersecurity advisors and 24/7 monitoring. They offer some free tools as well, like  Cybersecurity Assessments, Vulnerability Scanning, and Threat Alerts/Notifications.
     <li><a href="https://portswigger.net/burp/pro">Burp</a> - The leading toolkit for web security testing.
   </ul>
-<h2 id="other">Other</h2>
+</details>
+
+<details>
+  <summary>>Other</summary>
   <ul>
     <li><a href="https://bbradar.io">bbradar.io</a> - Latest Bug Bounty Programs.
     <li><a href="https://chat.openai.com">ChatGPT</a>
@@ -494,5 +411,4 @@ summary: "A List of Cybersecurity Tools."
     <li>The <a href="https://www.pfsense.org/">pfSense</a> (FREE) project is a free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. 
     <li><a href="https://github.com/up209d/ResourcesSaverExt">ResourcesSaver</a> is a Chrome extension that allows you to completely clone a website and all of its operating code/javascript and dependencies.
   </ul>
-
-
+</details>
