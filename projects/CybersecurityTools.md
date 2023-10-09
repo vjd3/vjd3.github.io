@@ -309,7 +309,7 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://www.comparitech.com/blog/information-security/global-ransomware-attacks/">Map of worldwide ransomware attacks</a></li>
     <li><a href="https://www.ransomlook.io">RansomLook</a> is a ransomware leak site monitoring tool.</li>
     <li><a href="https://ransomware.live">Ransomware.live</a> is a ransomware leak site monitoring tool. It will scrape all of the entries on various ransomware leak sites and published them here.</li>
-    <li><a href="https://rcxmatrix.org">Ransomeware Control Matrix</a> - Cybersecurity framework designed to help organizations defend against ransomware attacks by providing a comprehensive set of controls that can be implemented to reduce the risk of such attacks.<li></li>
+    <li><a href="https://rcxmatrix.org">Ransomeware Control Matrix</a> - Cybersecurity framework designed to help organizations defend against ransomware attacks by providing a comprehensive set of controls that can be implemented to reduce the risk of such attacks.</li>
   </ul>
 </details>
 
@@ -325,7 +325,7 @@ summary: "A List of Cybersecurity Tools."
 </details>
 
 <details>
-  <summary>>OS / Scripting</summary>
+  <summary>OS / Scripting</summary>
   <ul>
     <li><a href="http://ss64.com">Command line reference</a> - Command line references for Linux, macOS, CMD, PowerShell, Databases, VB Script, ASCII, etc…</li>
     <li><a href="https://explainshell.com/">explainshell.com</a> - write down a command-line to see the help text that matches each argument.</li>
