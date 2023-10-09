@@ -22,9 +22,9 @@ summary: "A List of Cybersecurity Tools."
 
 <details>
   <summary>CISA</summary>
-  <ul>
+  <p><ul>
     <a href="https://www.cisa.gov/">CISA’s</a> list of <a href="https://www.cisa.gov/free-cybersecurity-services-and-tools">free cybersecurity services and tools</a>.
-  </ul>
+  </ul></p>
 </details>
 
 <details>
