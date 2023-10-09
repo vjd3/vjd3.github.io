@@ -258,17 +258,17 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://sqlmap.org/">Sqlmap</a> (KALI) (FREE) is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. </li>
     <li><a href="https://www.zaproxy.org/">ZAP</a> (FREE) is an open source penetration testing tool designed specifically for testing web applications.</li>
     <li><a href="https://lcamtuf.coredump.cx/p0f3/">P0f</a> (FREE) (STEALTH) is a steath tool using passive traffic fingerprinting to identify OS and software on both endpoints, measurement of system uptime and network topology, automated detection of connection sharing, load balancing, and proxying setups, and detection of clients and servers that forge declarative statements such as X-Mailer or User-Agent.</li>
-    <li><a href="https://www.kali.org/">Kali Linux</a> (FREE) is a Debian Linux derivative specifically designed toward testing for security tasks, such as penetration testing, security auditing and digital forensics. Kali includes roughly 600 pre-installed [tools](https://www.kali.org/tools/all-tools/).</li>
+    <li><a href="https://www.kali.org/">Kali Linux</a> (FREE) is a Debian Linux derivative specifically designed toward testing for security tasks, such as penetration testing, security auditing and digital forensics. Kali includes roughly <a href="https://www.kali.org/tools/all-tools/">600 pre-installed Tools</a>.</li>
     <li><a href="https://www.metasploit.com/">The Metasploit Framework (MSF)</a> (KALI) (FREE) is a collection of exploits–it and security auditing tools. </li>
     <li><a href="https://hashcat.net/hashcat/">HashCat</a> - Advanced Password Recovery</li>
     <li><a href="https://www.openwall.com/john/">John the Ripper</a> - password cracker</li>
     <li><a href="https://ophcrack.sourceforge.io/">Ophcrack</a> is a free Windows password cracker based on rainbow tables.</li>
-    <li><a href="https://sourceforge.net/projects/thc-hydra.mirror/">THC Hydra</a> Multi Protocol Password Hack also at <a href="https://github.com/vanhauser-thc/thc-hydra">git</a>.</li>
+    <li><a href="https://sourceforge.net/projects/thc-hydra.mirror/">THC Hydra</a> Multi Protocol Password Hack <a href="https://github.com/vanhauser-thc/thc-hydra">also at git</a>.</li>
   </ul>
 </details>
 
 <details>
-  <summary>>Malware Analysis / Investigation / Intelligence / Forensics</summary>
+  <summary>Malware Analysis / Investigation / Intelligence / Forensics</summary>
   <ul>
     <li><a href="https://otx.alienvault.com">Alien Vault OTX</a> - Open threat intelligence community.</li>
     <li><a href="https://www.binaryedge.io">Binary Edge</a> - Real-time threat intelligence streams.</li>
@@ -299,12 +299,12 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://www.virustotal.com/">VirusTotal</a> - Analyze suspicious files and URLs to detect malware.</li>
     <li><a href="https://wtfbins.wtf">WTFBINS</a> - Catalog benign applications that exhibit suspicious behavior.</li>
     <li><a href="https://yaradbg.dev">YaraDbg</a> - Web-based Yara debugger to help security analysts to write hunting or detection rules.</li>
-    <li><a href="https://docs.remnux.org/">REMnux</a> (FREE) a Linux toolkit for reverse-engineering and analyzing malicious software. ></li>
+    <li><a href="https://docs.remnux.org/">REMnux</a> (FREE) a Linux toolkit for reverse-engineering and analyzing malicious software.</li>
   </ul>
 </details>
 
 <details>
-  <summary>>Ransomware</summary>
+  <summary>Ransomware</summary>
   <ul>
     <li><a href="https://www.comparitech.com/blog/information-security/global-ransomware-attacks/">Map of worldwide ransomware attacks</a></li>
     <li><a href="https://www.ransomlook.io">RansomLook</a> is a ransomware leak site monitoring tool.</li>
@@ -314,7 +314,7 @@ summary: "A List of Cybersecurity Tools."
 </details>
 
 <details>
-  <summary>>Cloud</summary>
+  <summary>Cloud</summary>
   <ul>
     <li><a href="https://buckets.grayhatwarfare.com">Grayhat Warfare</a> - Public Bucket Finder</li>
     <li><a href="https://osint.sh/buckets/">OSINT.SH Public Buckets</a> - Public Bucket Finder</li>
@@ -335,7 +335,7 @@ summary: "A List of Cybersecurity Tools."
 </details>
 
 <details>
-  <summary>>Regex</summary>
+  <summary>Regex</summary>
   <ul>
     <li><a href="http://www.regexr.com/">RegExr</a> - Learn, build and test RegEx.</li>
     <li><a href="https://regex101.com/">regex101</a></li>
@@ -343,7 +343,7 @@ summary: "A List of Cybersecurity Tools."
 </details>
 
 <details>
-  <summary>>Programming</summary>
+  <summary>Programming</summary>
   <ul>
     <li><a href="https://carbon.now.sh">carbon</a> - Create and share beautiful images of source code.</li>
     <li><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fstrongpasswordgenerator.com%2F&amp;showsource=yes">W3 Validator</a> - Check HTML to see if it is W3 compliant.</li>
@@ -352,7 +352,7 @@ summary: "A List of Cybersecurity Tools."
 </details>
 
 <details>
-  <summary>>Assembly / Reverse Engineering</summary>
+  <summary>Assembly / Reverse Engineering</summary>
   <ul>
     <li><a href="http://www.exploringbinary.com/twos-complement-converter/">Decimal/Two’s Complement Converter</a></li>
     <li><a href="https://disasm.pro">Disasm.pro</a></li>
@@ -366,7 +366,7 @@ summary: "A List of Cybersecurity Tools."
 </details>
 
 <details>
-  <summary>>Data Breach and Data Privacy</summary>
+  <summary>Data Breach and Data Privacy</summary>
   <ul>
     <li><a href="https://privacyrights.org/data-breaches">PrivacyRights.org Data Breaches</a></li>
     <li><a href="https://www.privacyguides.org/en/tools/">Privacy Guides</a></li>
@@ -375,7 +375,7 @@ summary: "A List of Cybersecurity Tools."
 </details>
 
 <details>
-  <summary>>Paid Tools and Sites</summary>
+  <summary>Paid Tools and Sites</summary>
   <ul>
     <li><a href="https://securityonionsolutions.com/">Security Onion</a> (PAID) is an open source software collection based on the Linux kernel that makes a comprehensive profile of a system's security posture, threat hunting, network security monitoring, and log management. </li>
     <li><a href="https://www.snort.org/">Snort</a> (PAID) is an open source network intrusion prevention system (IPS) and intrusion detection system (IDS) capable of real-time traffic analysis and logging. </li>
@@ -385,7 +385,7 @@ summary: "A List of Cybersecurity Tools."
 </details>
 
 <details>
-  <summary>>Other</summary>
+  <summary>Other</summary>
   <ul>
     <li><a href="https://bbradar.io">bbradar.io</a> - Latest Bug Bounty Programs.</li>
     <li><a href="https://chat.openai.com">ChatGPT</a></li>
@@ -408,7 +408,7 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://lobuhi.github.io/?#">Rebujito.xyz</a> - Hacking tools and resources.</li>
     <li><a href="https://talkback.sh/about/">Talkback</a> - Smart infosec resource aggregator, designed to help security enthusiasts, practitioners and researchers be more productive.</li>
     <li><a href="https://www.veracrypt.fr/en/Home.html">VeraCrypt</a> (FREE) is a free open source "on-the-fly" disk encryption software package.</li>
-    <li>The <a href="https://www.pfsense.org/">pfSense</a> (FREE) project is a free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. </li>
+    <li>The <a href="https://www.pfsense.org/">pfSense</a> (FREE) project is a free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.</li>
     <li><a href="https://github.com/up209d/ResourcesSaverExt">ResourcesSaver</a> is a Chrome extension that allows you to completely clone a website and all of its operating code/javascript and dependencies.</li>
   </ul>
 </details>
