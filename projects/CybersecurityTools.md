@@ -20,12 +20,7 @@ summary: "A List of Cybersecurity Tools."
 <img class="img-fluid" src="../img/cyber/cybertree.jpeg" style="max-width:400px;width:100%">
 <!--![Cybersecurity](../img/cyber/cybertree.jpg)-->
 
-<details>
-  <summary>CISA</summary>
-  <ul>
-    <a href="https://www.cisa.gov/">CISA’s</a> list of <a href="https://www.cisa.gov/free-cybersecurity-services-and-tools">free cybersecurity services and tools</a>.
-  </ul>
-</details>
+>      [CISA’s](https://www.cisa.gov/) list of [free cybersecurity services and tools](https://www.cisa.gov/free-cybersecurity-services-and-tools).
 
 <details>
   <summary>Threat Modeling</summary>
