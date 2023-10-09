@@ -66,7 +66,7 @@ summary: "A List of Cybersecurity Tools."
     <li><a href="https://www.elastic.co/security/siem">Elastic</a> Detect, investigate, and respond to evolving threats. Harness data at cloud speed and scale. Heighten host visibility and control. Modernize security with a unified, open SIEM solution.</li>
     <li><a href="https://www.exabeam.com/product/siem/">Exabeam</a> Cloud-native SIEM at hyperscale with fast, modern search and powerful correlation, reporting, dashboarding, and case management.</li>
     <li><a href="https://www.ibm.com/products/qradar-siem">IBM QRadar® Security Intelligence Platform</a> SIEM applies machine learning and user behavior analytics to network traffic alongside traditional logs, providing analysts with more accurate, contextualized and prioritized alerts.</li>
-    <li><a href="https://logrhythm.com/solutions/security/siem/">LogRhythm</li>
+    <li><a href="https://logrhythm.com/solutions/security/siem/">LogRhythm</a></li>
     <li><a href="https://www.splunk.com/en_us/products.html">Splunk</a> Detect, investigate and respond faster with Splunk’s Unified Security and Observability Platform.</li>
   </ul>
 </details>
